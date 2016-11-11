@@ -1,0 +1,2023 @@
+Aerial Servant
+Spell Level: Cleric, 7th Level
+Range: N/A
+Duration: Until completed or insanity
+This spell summons a powerful creature from the elemental planes of
+air, to fetch and return one thing (or creature) to the caster. Only a creature
+with a Strength of 18 can fight its way from the servant’s grasp, and even
+then the chance is not likely to be greater than 50%. The servant can carry
+up to 500 pounds in weight. An aerial servant has the following attributes:
+HD 16, AC 3 [16], Atk Bonus +17, Atk 1 (4d4), Move 240 feet. If the
+servant is frustrated in its efforts to bring the desired object to the caster,
+it will become insane, returning and attacking him or her.
+Animal Growth
+Spell Level: Druid, 5th Level; Magic-User, 5th Level
+Range: 120 feet
+Duration: 2 hours
+This spell causes 1d6 normal creatures to grow immediately to giant
+size. While the spell lasts, the affected creatures can attack as per a giant
+version of themselves.
+Animal Summoning I
+Spell Level: Druid, 4th Level
+Range: 30 feet
+Duration: 1 hour
+The Druid summons forth normal animals to serve as allies: 1 creature
+larger than a man (such as an elephant), 3 animals the size of a man or
+horse (such as a lion), or 6 animals smaller than a man (such as a wolf).
+The animals obey the caster’s commands.
+Animal Summoning II
+Spell Level: Druid, 5th Level
+Range: 30 feet
+Duration: 2 hours
+The Druid summons forth normal animals to serve as allies: 2
+creatures larger than a man (such as an elephant), 6 animals the size of
+a man or horse (such as a lion), or 12 animals smaller than a man (such
+as wolves). The animals obey the caster’s commands.
+Animal Summoning III
+Spell Level: Druid, 6th Level
+Range: 30 feet
+Duration: 4 hours
+The Druid summons forth normal animals to serve as allies: 4
+creatures larger than a man (such as an elephant), 12 animals the size of
+a man or horse (such as a lion), or 24 animals smaller than a man (such
+as wolves). The animals obey the caster’s commands.
+Animate Dead
+Spell Level: Magic-User, 5th Level
+Range: Referee’s Discretion
+Duration: Permanent
+This spell animates skeletons or zombies from dead bodies. 1d6
+undead are animated per level of the caster above 8th. The corpses
+remain animated until slain.
+Animate Object
+Spell Level: Cleric, 6th Level
+Range: 60 feet
+Duration: 1 hour
+The Cleric “brings to life” inanimate objects such as statues, chairs,
+carpets, and tables. The objects follow the Cleric’s commands, attacking
+foes or performing other actions on the caster’s behalf. The Referee
+must determine the combat attributes of the objects (such as armor
+class, speed, hit dice, and to-hit bonuses) on the spur of the moment.
+A stone statue, as a basic example, might have AC of 1 [18], attack
+as a creature with 7–9 HD, and inflict 2d8 points of damage. Wooden
+furniture would be considerably less dangerous.
+Animate Rock
+Spell Level: Druid, 7th Level
+Range: 60 feet
+Duration: 1 hour
+The caster brings rock to life, perhaps by calling a spirit into it, or
+perhaps by some other means related to the druidic affinity for stone
+and the elements. The mass of rock, whether or not shaped into an
+object, moves and attacks of its own volition. The druid has roughly a
+50% +2% per level chance to be able to bring the object under control;
+otherwise it will act somewhat randomly, having little or no independent
+intelligence. The quantity of rock that can be animated is a function of
+the druid’s power and is about 2-3 cubic feet per level. If the animated
+rock is a statue, it will move at a speed appropriate to whatever the
+statue depicts (a wolf statue, for example, moving faster than the statue
+of a man). A formless mass of rock will have a movement rate of 3.
+Anti-Animal Shell
+See Anti-Animal Ward
+Anti-Animal Ward
+Spell Level: Druid, 6th Level
+Range: Caster
+Duration: 2 hours
+The caster is surrounded by a magical barrier that prevents any sort
+of normal or giant animal (but not magical beasts such as a manticore
+or griffon) from reaching through or attacking. The spell has a radius
+of 10 feet. If anyone within the magical warding casts an attack spell or
+makes a physical attack, the barrier instantly evaporates.
+Anti-Magic Shell
+Spell Level: Magic-User, 6th Level
+Range: Caster
+Duration: 2 hours
+An invisible bubble of force surrounds the caster, impenetrable to
+magic. Spells and other magical effects cannot pass into or out of the
+shell. The shell is ten feet in radius.
+Anti-Plant Shell
+See Anti-Plant Ward
+Anti-Plant Ward
+Spell Level: Druid, 5th Level
+Range: Caster
+Duration: 2 hours
+The caster is surrounded by a magical barrier which prevents any sort
+of plant, magical or not, from reaching through or attacking. The shell has
+a radius of ten feet. If anyone within the magical warding casts an attack
+spell or makes a physical attack, the barrier will instantly evaporate.
+Astral Spell
+Spell Level: Magic-User, 9th Level
+Range: 100 miles (above ground), 100 yards (below ground)
+Duration: 2 hours
+The caster projects his or her astral form into other places; the astral
+form is invisible to all creatures but those also traveling the astral
+plane of existence. The spell has a duration of two hours. If the caster’s
+physical body is moved more than 100 miles from its original location
+while the astral form is away, the link is sundered and the caster’s soul
+becomes lost in the beyond. (If the caster’s body is underground, it need
+only be moved 100 yards before the connection is broken.)
+The astral form is capable of casting spells, but there is a 5% chance
+per spell level that the spell will fail. Additionally, there is a 2% chance
+per spell level of the attempted spell that the astral spell itself will falter
+as a result of the spell casting, and the astral form will return to the
+physical body. When traveling in astral form upon the earth, the astral
+form may travel as fast as 100 miles per hour per level above 18th. If
+the form is traveling underground, its top speed is much slower: 120
+feet per 10-minute turn. When traveling into the deeper regions beyond
+the earth, speed and distance are obviously not measured in miles.
+Blade Barrier
+Spell Level: Cleric, 6th Level
+Range: 60 feet
+Duration: 12 turns
+Mystical blades, whirling and thrusting, form a lethal circle around
+the spell’s recipient, at a radius of 15 feet. The barrier inflicts 7d10
+points of damage to anyone trying to pass through.
+Bless
+Spell Level: Cleric, 2nd Level
+Range: Only upon a character not in combat.
+Duration: 1 hour (6 turns)
+This spell grants its recipient a +1 to attack rolls (and improves
+morale, if the recipient is not a player character). The recipient cannot
+already be in combat when the spell is cast.
+Cacodemon or Cacodaemon
+See Conjuration of Demons
+Call Lightning
+Spell Level: Druid, 3rd level
+Range: 1000 feet
+Duration: One hour
+This spell of colossal power may only be used outdoors, and even
+then only when a storm is present or immediately imminent. Under
+such conditions, the caster may tap into and unleash the power of the
+storm itself, calling forth bolts of lightning from the sky at intervals
+of no less than ten minutes in between. The lightning blasts straight
+downward from the heavens, inflicting damage of 8d6 hp + 1 hp/level.
+Charm Monster
+Spell Level: Magic-User, 4th Level
+Range: 60 feet
+Duration: See below
+This spell operates in the same manner as Charm Person, but can affect
+any one living creature, including powerful monsters. For monsters of
+fewer than 3 hit dice, up to 3d6 can be affected. Monsters have one
+chance per week to break free of the charm, with the probability based
+on their hit dice (as shown on the following table).
+Table 35: Charm Monster
+Hit Dice Chance to Break Charm1
+Fewer than 2 5%
+2–4 10%
+5–7 20%
+8–10 40%
+11+ 80%
+1 Per week
+Charm Person
+Spell Level: Magic-User, 1st Level
+Range: 120 feet
+Duration: Until dispelled
+This spell affects living bipeds of human size or smaller, such as
+goblins or dryads. If the spell succeeds (saving throw allowed), the
+unfortunate creature falls under the caster’s influence.
+Charm Plants
+Spell Level: Magic-User, 7th Level
+Range: 120 feet
+Duration: Until dispelled
+If the plant fails a saving throw (and it need not be intelligent), it will
+obey the caster to the extent of its ability. The spell affects one large
+tree, six man-sized plants, twelve plants three feet tall, or twenty-four
+flower-sized plants.
+Clairaudience
+Spell Level: Magic-User, 3rd Level
+Range: 60 feet
+Duration: 2 hours
+Clairaudience allows the caster to hear through solid stone (limiting
+range to 2 feet or so) and other obstacles, any sounds within a range
+of 60 feet. The spell’s effect cannot pass through even a thin sheeting
+of lead, however, for this metal blocks it utterly. The spell can be cast
+through a crystal ball.
+Clairvoyance
+Spell Level: Magic-User, 3rd Level
+Range: 60 feet
+Duration: 2 hours
+Clairvoyance allows the caster to see through solid stone (limiting
+range to 2 feet or so) and other obstacles, anything within a range of 60
+feet. The spell’s effect cannot pass through even a thin sheeting of lead,
+however, for this metal blocks it completely.
+Clone
+Spell Level: Magic-User, 8th Level
+Range: Close
+Duration: Permanent
+By this eerie and disturbing spell, a piece of flesh, taken from a living
+person, is grown into an exact duplicate of the person at the time the
+flesh was removed. (Whether this requires a laboratory and how much
+time is needed to regrow the clone depend upon the spell formula and
+the Referee’s discretion.) If a clone is created while its parent-creature
+still lives, the clone will seek to kill its original. If it fails to achieve this
+goal, both the clone and the original will become insane.
+Cloudkill
+Spell Level: Magic-User, 5th Level
+Range: Moves 6 feet per minute
+Duration: 1 hour
+Foul and poisonous vapors boil from the thin air, forming a cloud 15
+feet in radius. The cloud moves directly forward at a rate of 6 feet per
+minute unless its direction or speed is affected by winds. Unusually
+strong gusts can dissipate and destroy the cloud. Poison-laden, the horrid
+mist is heavier than air, and thus sinks down any pits or stairs in its path.
+For any creature with fewer than 5HD, touching the cloud (much less
+breathing it) requires a saving throw to avoid immediate death.
+Commune
+Spell Level: Cleric, 5th Level
+Range: Caster
+Duration: 3 questions
+Higher powers grant an answer to three questions the caster poses to
+them. Higher powers do not like being constantly interrogated by mere
+mortals, so use of the spell should be limited to once per week or so by
+the Referee.
+Commune with Nature
+Spell Level: Druid, 5th Level
+Range: Caster
+Duration: 3 questions
+The powers of land, sky, and nature grant an answer to three questions
+the caster poses to them. The spell cannot be used while underground
+or within a building; a fourth question may be asked if the caster is in a
+druidic holy place. The powers of nature can only respond to questions
+that are within their knowledge and purview. It is inadvisable to use the
+spell more than once per week.
+Confusion
+Spell Level: Druid, 7th Level; Magic-User, 4th Level
+Range: 120 feet
+Duration: 2 hours
+This spell confuses people and monsters, making them act randomly.
+On a roll of 2d6, the creatures will do the following:
+Table 36: Confusion
+Die Roll Reaction
+2–5 Attack caster & caster’s allies
+6–8 Stand baffled and inactive
+9–12 Attack each other
+The effects of the confusion may shift every 10 minutes or so, and the
+dice are once again rolled.
+The spell affects 2d6 creatures, plus an additional creature for every
+caster level above 8th. Creatures of 3 hit dice or fewer are automatically
+affected by the spell, and it takes effect instantly. Creatures of 4 hit dice
+or more automatically overcome the confusion effect as it builds up to
+its full power (1d12 minutes, minus the caster’s level), and only then
+are they permitted a saving throw. Eventually, these creatures are likely
+to succumb to the confusion, for they must continue to make another
+saving throw every 10 minutes until the spell’s two-hour duration has
+run its course.
+Conjure Animals
+See Conjuration of Animals
+Conjure Earth Elemental
+See Conjuration of Earth Elementals
+Conjure Elemental
+See Conjuration of Elementals
+Conjure Fire Elemental
+See Conjuration of Fire Elementals
+Conjuration of Animals
+Spell Level: Cleric, 6th Level
+Range: 30 feet
+Duration: 1 hour
+The Cleric conjures up normal animals to serve as allies: 1 creature
+larger than a man (such as an elephant), 3 animals the size of a man or
+horse (such as a lion), or 6 animals smaller than a man (such as a wolf).
+The animals obey the caster’s commands.
+Conjuration of Demons
+Spell Level: Magic-User, 7th Level
+Range: 10 feet
+Duration: Referee’s discretion
+This spell summons a demon or other fiend (such as a devil) from the
+lower planes of existence. The spell provides no protection whatsoever
+against the wrath of the summoned creature, and the Magic-User should
+be versed in the lore of pentacles and other magical means of hedging
+out demons. Gaining the demon’s assistance is beyond the spell’s
+power, coming down to a matter of negotiations and threats between
+the caster and the fiend.
+Conjuration of Earth Elementals
+Spell Level: Druid, 7th Level
+Range: 240 feet
+Duration: Until dispelled or concentration ceases
+This spell summons forth a 16 HD earth elemental and binds it to
+follow the caster’s commands. The elemental obeys the caster only
+for as long as the caster concentrates on maintaining control over it.
+Unlike the Magic-User spell for conjuring elementals (Conjuration
+of Elementals) this spell summons a willing ally from the elemental
+planes rather than a hostile slave. The elemental will not stay longer
+than the caster concentrates upon it, but it will not seek to attack a
+druidic summoner once this binding is released. The spell is powerful
+enough not to risk the random consequences of the sixth level Druid
+spell Conjuration of Fire Elementals, or perhaps it is simply that the
+magic of stone is less mercurial than the magic of fire.
+Conjuration of Elementals
+Spell Level: Magic-User, 5th Level
+Range: 240 feet
+Duration: Until dispelled or slain
+The caster summons a 16 HD elemental (any kind) from the elemental
+planes of existence, and binds it to follow commands. The elemental
+obeys the caster only for as long as the caster concentrates on it; and
+when the caster ceases to concentrate, even for a moment, the elemental
+is released and will attack its former master.
+Conjuration of Fire Elementals
+Spell Level: Druid, 6th Level
+Range: 240 feet
+Duration: Until dispelled or concentration ceases
+The caster summons a 16 HD fire elemental from the elemental planes
+of existence, and binds it to obey the character’s commands. The elemental
+obeys the caster only for as long as the caster concentrates on it. Unlike the
+Magic-User spell for conjuring elementals (Conjuration of Elementals) this
+spell summons a willing ally from the elemental planes rather than a hostile
+slave. The elemental will not stay longer than the caster concentrates upon
+it, but it will not seek to attack a druidic summoner. There is, however, a 5%
+chance that the spell will summon forth powers unintended by the druid. If
+this happens, one of two things will occur, with a 50% chance of each. The
+spell might summon forth a truly great elemental force, an elemental with
+20 HD. However, there is also the chance that the spell will summon forth
+an efreeti. The efreet do not have the same rapport with Druids as the pure
+elementals do, and an efreeti, unlike elementals, will attack the caster when
+the Druid’s concentration falters.
+Contact Other Plane
+Spell Level: Magic-User, 5th Level
+Range: None
+Duration: Number of “Yes/No” questions
+The caster creates a mental contact with the planes, forces, powers,
+and geometries of the beyond, in order to gain affirmative or negative
+answers to the questions being contemplated. The spell’s effects depend
+upon how deeply the caster quests into the various planes of existence.
+The caster must decide how “far” into the planes of existence the
+contact will be attempted. The number of planes in “depth” that the
+caster chooses will affect the number of yes or no questions that can
+be asked, the chance that the knowledge is available at that level, the
+chance of receiving a wrong answer, and the chance that the caster will
+become temporarily insane from the experience. Temporary insanity
+lasts for as many weeks as the “number” of the plane where the caster’s
+sanity failed… or perhaps was deliberately removed.
+Table 37: Contact Other Plane
+Plane of
+Existence
+Max. #
+Questions
+Knowledge
+Available
+Wrong
+Result
+Temporary
+Insanity1
+3rd 3 25% 70% 1%
+4th 4 30% 60% 10%
+5th 5 40% 50% 20%
+6th 6 50% 40% 30%
+7th 7 60% 30% 40%
+8th 8 70% 25% 45%
+9th 9 80% 20% 55%
+10th 10 85% 15% 65%
+11th 11 90% 10% 75%
+12th 12 95% 1% 85%
+1 This chance is reduced by 5% for every level of the caster above 11th
+Continual Light
+Spell Level: Magic-User, 2nd Level
+Range: 120 feet
+Duration: Permanent until dispelled
+The targeted person or object produces light as bright as sunlight (and
+with the same effects as sunlight), to a radius of 120 feet.
+Control Temperature, 10-foot radius
+Spell Level: Druid, 4th Level
+Range: Touched sprig of mistletoe
+Duration: 3 turns + 1 turn/level
+The caster may raise or lower the temperature by 50 degrees (hotter
+or colder) in a 10-foot radius around the material component, a sprig
+of mistletoe.
+Control Weather
+Spell Level: Cleric, 7th Level; Druid, 7th Level; Magic-User,
+6th Level
+Range: Referee’s discretion
+Duration: Referee’s discretion
+The caster can summon or stop rainfall, create unusually high or low
+temperatures, summon or disperse a tornado, clear the sky of clouds, or
+summon clouds into being.
+Control Winds
+Spell Level: Druid, 5th Level
+Range: Centered on caster
+Duration: 6 turns + 1 turn/level
+Within a radius of 240 feet, the caster controls the winds. It is possible
+to make the air completely still, or to whisk it into a gale-like tumult of
+unbelievable ferocity.
+Create Food
+Spell Level: Cleric, 5th Level
+Range: Close
+Duration: Immediate
+This spell creates a one-day supply of food for 24 humans (or the
+like). At 9th level the amount of food doubles, and it doubles again at
+every level thereafter.
+Create Water
+Spell Level: Cleric, 4th Level; Druid 2nd Level
+Range: Close
+Duration: Immediate
+This spell creates a one-day supply of drinking water for 24 men (or,
+for game purposes, horses). At 9th level the amount of water doubles,
+and it doubles again at every level thereafter.
+Creeping Doom
+Spell Level: Druid, 7th Level
+Range: 50 feet
+Duration: See below
+Spiders, centipedes, and other such vermin boil forth from the ground,
+assembling into a coherent swarm within 1d3 rounds (1-3 minutes). The caster
+may direct the swarm in any direction, or toward a particular target within 60
+feet of the swarm’s location. It will march in that direction and attack anything
+in its path, pursuing a particular target up to a distance of 240 feet from the
+caster. The swarm is composed of 1d10 x100 creatures, each of which inflicts
+one point of damage and then dies. (A swarm of 100 will inflict a total of 100
+hp before being “used up,” and a swarm of 1000 would eventually inflict a total
+of 1000 hp in damage if it came across enough victims.)
+Cure Disease
+Spell Level: Cleric, 3rd Level, Druid, 3rd Level
+Range: Touch
+Duration: Immediate
+Cures the spell’s recipient of any diseases, including magically
+inflicted ones. An evil reversal of this spell allows a Chaotically aligned
+Cleric to cause disease.
+Cure Light Wounds
+Spell Level: Cleric, 1st Level; Druid 2nd, Level
+Range: Touch
+Duration: Immediate
+Cures 1d6+1 hit points of damage. An evil reversal of this spell allows a
+Chaotically aligned Cleric to cause light wounds rather than curing them.
+Cure Serious Wounds
+Spell Level: Cleric, 4th Level; Druid, 4th Level
+Range: Touch
+Duration: Immediate
+Cures 2d6+2 hit points of damage. An evil reversal of this spell allows
+a Chaotically aligned Cleric to cause serious wounds.
+Darkness 15-foot Radius
+Spell Level: Magic-User, 2nd Level
+Range: 120 feet
+Duration: 1 hour
+Darkness falls within the spell’s radius, impenetrable even to darkvision.
+A Light spell or Dispel Magic can be used to counteract the darkness.
+Darkvision
+Spell Level: Magic-User, 3rd Level
+Range: 40 feet
+Duration: 1 day
+The recipient of the spell can see in total darkness for the length of
+the spell’s duration.
+Death Spell
+Spell Level: Magic-User, 6th Level
+Range: 240 feet
+Duration: Causes normal death
+Within a 60-foot radius, up to 2d8 creatures, with fewer than 7 hit dice
+each, perish.
+Delayed Blast Fireball
+Spell Level: Magic-User, 7th Level
+Range: 240 feet
+Duration: Chosen by caster (up to 10 minutes)
+This spell creates a normal fireball, but the blast can be delayed for a
+period of up to 10 minutes. The burst radius, per a normal fireball, is 20
+feet, and damage is 1d6 per level of the caster. The blast shapes itself to
+the available volume (33,000 cubic feet), filling 33 10-foot x 10-foot x
+10-foot cubical areas.
+Detect Evil (Cleric)
+Spell Level: Cleric, 1st Level
+Range: 120 feet
+Duration: 1 hour
+The caster detects any evil enchantments, evil intentions, evil
+thoughts, or evil auras within the spell’s range. Poison is not inherently
+evil and cannot be detected by means of this spell. Whether there is any
+distinction between “evil” and “Chaos” is left to the Referee; in most
+campaigns they are exactly the same.
+Detect Evil (Magic-User)
+Spell Level: Magic-User, 2nd Level
+Range: 60 feet
+Duration: 20 minutes
+The caster detects any evil enchantments, evil intentions, evil
+thoughts, or evil auras within the spell’s range. Poison is not inherently
+evil and cannot be detected by means of this spell. Whether there is
+any meaningful distinction between “evil” and “Chaos” is left to the
+Referee; in most campaigns they are exactly the same.
+Detect Invisibility
+Spell Level: Magic-User, 2nd Level
+Range: 10 feet per caster level
+Duration: 1 hour
+The caster can perceive invisible objects and creatures, even those
+lurking in the Astral or Ethereal planes of existence.
+Detect Magic
+Spell Level: Cleric, Magic-User, Druid 1st Level
+Range: 60 feet
+Duration: 20 minutes
+The caster can perceive, in places, people, or things, the presence of
+a magical spell or enchantment. For example, magical items may be
+discovered in this fashion, as can the presence of a charm secretly laid
+upon a person.
+Detect Snares and Pits
+Spell Level: Druid 1st Level
+Range: 30 feet
+Duration: 1 hour + 10 min/level
+Much like the Clerical Find Traps spell, this spell grants the caster a
+mystical power of sight, revealing any traps. However, the spell only
+functions outdoors; it is useless inside buildings or in dungeons.
+Dimension Door
+Spell Level: Magic-User, 4th Level
+Range: 10 feet (360-foot teleport distance)
+Duration: 1 hour
+Dimension Door is a weak form of teleportation, a spell that can be managed
+by lesser magicians who cannot yet manage the Teleport spell. The caster can
+teleport himself, an object, or another person, with perfect accuracy to the
+stated location, as long as it is within the spell’s range.
+Disintegrate
+Spell Level: Magic-User, 6th Level
+Range: 60 feet
+Duration: Permanent—cannot be dispelled
+The caster defines one specific target such as a door, a peasant, or
+a statue, and it disintegrates into dust. Magical materials are not
+disintegrated, and living creatures (such as the aforementioned peasant)
+are permitted a saving throw.
+Dispel Evil
+Spell Level: Cleric, 5th Level
+Range: 30 feet
+Duration: 10 minutes against an item
+This spell is similar to the Magic-User spell Dispel Magic, but
+affects only evil magic. Also unlike the Dispel Magic spell, Dispel
+Evil functions (temporarily) against evil “sendings,” possibly
+including dreams or supernatural hunting-beasts. The power of
+an evil magic item is held in abeyance for 10 minutes rather
+than being permanently dispelled. Evil spells are completely
+destroyed.
+As with Dispel Magic, the chance of successfully dispelling evil is a
+percentage based on the ratio of the level of the dispelling caster over
+the level of original caster (or HD of the monster). Thus, a 9th-level
+Cleric attempting to dispel an evil charm cast by a 12th-level Cleric has a
+75% chance of success (9/12 = .75, or 75%). If the 12th-level Cleric was
+dispelling the 9th-level Cleric’s charm, success would be certain (12/9 =
+1.33, or 133%).
+Dispel Magic
+Spell Level: Druid, 4th Level; Magic-User, 3rd Level
+Range: 120 feet
+Duration: 10 minutes against an item
+Dispel Magic, although not powerful enough to permanently
+disenchant a magic item (nullifies for 10 minutes), can be used to
+completely dispel most other spells and enchantments.
+The chance of successfully dispelling magic is a percentage based on the
+ratio of the level of the dispelling caster over the level of original caster (or
+HD of the monster). Thus, a 6th-level Magic-User attempting to dispel a
+charm cast by a 12th-level Magic-User has a 50% chance of success (6/12
+= .50, or 50%). If the 12th-level Magic-User was dispelling the 6th-level
+Magic-User’s charm, success would be certain (12/6 = 2.00, or 200%).
+Earthquake
+Spell Level: Cleric, 7th Level
+Range: Referee’s discretion
+Duration: Immediate
+The Cleric causes a powerful earthquake in an area 60x60 feet plus an
+additional 10 feet (in both length and width) per three levels above 17th.
+The quake topples walls, causes rockslides, and opens gaping fissures
+in the earth. Any creature caught in the quake has a 1 in 6 chance of
+falling into the depths of the earth and being killed. The earthquake’s
+tremors do not extend in any way beyond the spell’s area of effect.
+Enchant Item
+Spell Level: Magic-User, 6th Level
+Range: Touch
+Duration: Permanent
+This spell is used in the creation of a magical item, in addition to
+whatever research, special ingredients, or other efforts the Referee may
+determine are necessary for the task.
+ESP (Detect Thoughts)
+Spell Level: Magic-User, 2nd Level
+Range: 60 feet
+Duration: 2 hours
+The caster can detect the thoughts of other beings at a distance of
+60 feet. The spell cannot penetrate more than two feet of stone, and is
+blocked by even a thin sheet of lead.
+Explosive Runes
+Spell Level: Magic-User, 3rd Level
+Range: Written on parchment
+Duration: Permanent
+The Magic-User scribes a rune onto parchment, vellum, or paper as a deadly
+trap. If anyone other than the caster reads the rune, the sigil explodes into fire,
+automatically dealing 4d6 points of damage to anyone directly in front of it. The
+parchment or book upon which the rune was scribed will also be destroyed. An
+explosive rune can be detected, bypassed, and even removed by a higher-level
+Magic-User. Any Magic-User at least two levels higher than the rune’s creator
+has a 60% chance to detect it, a 75% chance to bypass it (if it is detected), and a
+100% chance to remove it (if it is successfully detected and bypassed).
+Extension I
+Spell Level: Magic-User, 4th Level
+Range: Caster
+Duration: See below
+Extension I lengthens the duration of another of the caster’s spells by
+50%. Only spells of levels 1–3 can be affected by Extension I.
+Extension II
+Spell Level: Magic-User, 5th Level
+Range: Caster
+Duration: See below
+Extension II lengthens the duration of another of the caster’s spells by
+50%. Only spells of levels 1–4 can be affected by Extension II.
+Extension III
+Spell Level: Magic-User, 6th Level
+Range: Caster
+Duration: See below
+Extension III doubles the duration of another of the caster’s spells.
+Spells of level 1–5 can be affected by Extension III.
+Faerie Fire
+Spell Level: Druid, 1st Level
+Range: 60 feet
+Duration: 1 hour
+This spell illumines an object or creature with an eerie, fey glow. The
+spell’s target may be approximately as large as 10 square feet, plus 2
+square feet per level of the caster. The spell can be used for diverse
+purposes, such as revealing the true dimensions or extent of a thing, or
+to prevent a creature from retreating into the darkness. Depending upon
+the precise circumstances, the Referee may allow such illumination to
+render a creature more easily hit, granting a +1 to-hit bonus to attackers.
+Fear
+Spell Level: Magic-User, 4th Level
+Range: 240 feet
+Duration: 1 hour
+This spell causes the creatures in its cone-shaped path to flee in horror
+if they fail a saving throw. If they do so, there is a 60% chance that they
+will drop whatever they are holding. The cone extends 240 feet to a
+base 120 feet across.
+Feeblemind
+Spell Level: Druid, 6th Level; Magic-User, 5th Level
+Range: 240 feet
+Duration: Permanent until dispelled
+Feeblemind is a spell that affects only Magic-Users. The saving throw
+against the spell is made at a -4 penalty, and if the saving throw fails,
+the targeted Magic-User becomes feeble of mind until the magic is
+dispelled.
+Find the Path
+Spell Level: Cleric, 6th Level
+Range: Caster
+Duration: 1 hour +10 minutes/level; 1 day outdoors
+The caster perceives the fastest way out of an area, even if the area is
+designed to be difficult to navigate, such as a labyrinth. Outdoors the
+spell has greater power, lasting a full day.
+Find Traps
+Spell Level: Cleric, 2nd Level
+Range: 30 feet
+Duration: 20 minutes (2 turns)
+The caster can perceive both magical and non-magical traps at a
+distance of 30 feet
+Finger of Death
+Spell Level: Cleric, 5th Level; Druid, 6th Level
+Range: 120 feet
+Duration: Immediate
+This spell kills a single creature (saving throw applies). Misusing the
+spell is an evil act that will likely invoke divine retribution of some kind.
+Fire Storm
+Spell Level: Druid, 7th Level
+Range: 100 feet + 10 feet/level
+Duration: 1 turn (10 minutes)
+A massive conflagration of fire erupts in the spot directed by the caster. The
+fire burns in a shape, area, and size defined by the caster, the volume being no
+less than 30 feet x 30 feet x 30 feet. The maximum possible volume of fire that
+can be called forth is the minimum area (30x30x30) times the caster’s level.
+While the magical fire burns, creatures with 3 or fewer hit dice cannot pass
+through it, and no creature can see through it to the other side. Creatures who
+are able to pass through the fire receive 1d6 hit points of damage per ten feet
+traveled (no saving throw) and undead creatures sustain twice this damage.
+Fireball
+Spell Level: Magic-User, 3rd Level
+Range: 240 feet
+Duration: Instantaneous
+A bead-like missile shoots from the caster’s finger, to explode, at the
+targeted location, in a furnace-like blast of fire. The burst radius is 20
+feet, and damage is 1d6 per level of the caster. The blast fills 33,000
+cubic feet (33 ten-foot x ten-foot x ten-foot cubical areas) but shapes
+itself to the available volume. A successful saving throw means that the
+target takes only half damage.
+Fly
+Spell Level: Magic-User, 3rd Level
+Range: Touch
+Duration: 1 turn/level + 1d6 turns
+This spell imbues the Magic-User with the power of flight, with a movement
+rate of 120 feet per round. The Referee secretly rolls the 1d6 additional turns;
+the player does not know exactly how long the power of flight wlil last.
+Gate
+Spell Level: Magic-User, 9th Level
+Range: Near the caster
+Duration: See below
+A Gate spell creates an opening to another plane of existence and summons
+forth a specified, tremendously powerful being from the other plane,
+including gods, demi-gods, demons, etc. The caster must know the name
+of the creature being summoned or the spell will fail. There is a 5% chance
+that the wrong being might be summoned forth, and (regardless whether the
+summoned being is the right one or not) there is a 5% chance that it will lack
+interest in the situation and return through the gate. The summoned being is
+not necessarily friendly to the caster, and may even be extremely annoyed.
+Geas
+Spell Level: Magic-User, 6th Level
+Range: 30 feet
+Duration: Until task is completed
+If the spell succeeds (saving throw cancels), the caster may set a
+task for the spell’s victim. If the victim does not diligently work at
+performing the task, the refusal will cause weakness (50% reduction in
+strength), and trying to ignore the geas eventually causes death.
+Hallucinatory Forest
+Spell Level: Druid, 4th Level
+Range: 60 feet
+Duration: Until dispelled
+Much like the Magic-User spell Hallucinatory Terrain, this spell
+changes the appearance of the land, although the illusion is always
+that of a forest. Druids and magical creatures of the forest such as
+a dryad or treant will not be fooled by the illusion, but until the
+dweomer is dispelled all other creatures will perceive the area to be
+forested. The maximum extent of the nonexistent forest, measured
+for convenience in 30-foot x 30-foot “squares,” is one such square
+per level of the caster.
+Hallucinatory Terrain
+Spell Level: Magic-User. 4th Level
+Range: 240 feet
+Duration: Until touched (other than by ally) or dispelled
+This spell changes the appearance of the terrain into the semblance of
+what the caster desires. A hill can be made to disappear, or it could be
+replaced with an illusory forest, for example.
+Haste
+Spell Level: Magic-User, 3rd Level
+Range: 240 feet
+Duration: 30 minutes
+In an area with a radius of 60 feet around the point where the spell
+is targeted, as many as 24 creatures become able to move and attack at
+double normal speed.
+Heat Metal
+Spell Level: Druid, 2nd Level
+Range: 30 feet
+Duration: 7 rounds
+This spell heats metal to searing hot temperatures, affecting 20
+pounds of metal per level of the caster. As a rule of thumb, this magic
+affects the armor and weapons of one opponent per caster level when
+used as a general attack, although the spell is definitely not limited
+to general combat. Metal does not get a saving throw against being
+heated, but any sort of magical fire resistance prevents damage from
+the heat itself.
+Effect of continuous exposure to heated metal:
+Round 1: The metal becomes hot, but is not yet dangerous.
+Round 2: 1d4 points of damage. If hands are what remain in contact,
+the blistering makes them unusable for 1 day thereafter.
+Rounds 3-5: 1d4+1 points of damage per round. If hands remain in contact,
+their skin is so badly scorched that they cannot be used for 1d3 weeks. If the
+head is in contact, the victim falls unconscious for 1d8 turns.
+Round 6: 1d4 points of damage.
+Round 7: The metal has begun to cool, and is merely hot to the touch.
+Hold Animal
+Spell Level: Druid, 3rd level
+Range: 120 feet
+Duration: 1 hour (+10 minutes/level)
+The caster targets no more than four normal or giant animals, with
+total hit dice equal to or less than those of the Druid. These animals
+are completely immobilized (saving throw applies). If the caster
+targets a single creature, the saving throw is made with a penalty
+of -2.
+Hold Monster
+Spell Level: Magic-User, 5th Level
+Range: 120 feet
+Duration: 1 hour (+10 minutes/level)
+The caster targets 1d4 creatures, which are completely immobilized
+(saving throw applies). The caster may also target a single creature, in
+which case the saving throw is made with a penalty of -2.
+Hold Person (Cleric)
+Spell Level: Cleric, 2nd Level
+Range: 180 feet
+Duration: 9 turns
+The caster targets 1d4 persons (according to the same parameters
+as the Charm Person spell), who are completely immobilized (saving
+throw applies). The caster may also target a single person, in which case
+the saving throw is made with a penalty of -2.
+Hold Person (Magic-User)
+Spell Level: Magic-User, 3rd Level
+Range: 120 feet
+Duration: 1 hour (+10 minutes/level)
+The caster targets 1d4 persons (according to the same parameters
+as the Charm Person spell), who are completely immobilized (saving
+throw applies). The caster may also target a single person, in which case
+the saving throw is made with a penalty of -2.
+Hold Plant
+Spell Level: Druid, 5th Level
+Range: 30 feet/level
+Duration: 1 hour (+10 minutes/level)
+The caster targets 1d4 plants or plant-creatures, which become completely
+immobilized. (A saving throw applies for monster-type plants.) The caster
+may also target a single plant, in which case the saving throw is made
+with a penalty of -2. The spell does not only immobilize plants; it will also
+temporarily arrest the growth of any plant, magical or not.
+Hold Portal
+Spell Level: Magic-User, 1st Level
+Range: Referee’s Discretion
+Duration: 2d6 turns
+This spell holds a door closed for the spell’s duration or until dispelled.
+Creatures with magic resistance can shatter the spell without effort.
+Holy Word
+Spell Level: Cleric, 7th Level
+Range: 40-foot radius
+Duration: Immediate
+The speaking of a Holy Word dramatically affects all those within the
+range of its divine power. Creatures of fewer than 5 hit dice are slain,
+creatures of 5-8 hit dice are stunned for 2d10 turns, and creatures with
+9-12 hit dice are deafened for 1d6 turns. Creatures with 13+ hit dice are
+unaffected but probably impressed.
+Ice Storm
+Spell Level: Magic-User, 4th Level
+Range: 120 feet
+Duration: 1 round
+A whirling vortex of ice, snow, and hail forms in a cube roughly 30
+feet across. Massive hailstones inflict 3d10 hit points of damage (no
+saving throw applies) to all within the area.
+Insect Plague
+Spell Level: Cleric, 5th Level; Druid, 4th level
+Range: 480 feet
+Duration: 1 day
+This spell works only outdoors. A storm of insects gathers, and goes
+wherever the caster directs. The cloud covers approximately 400 square
+feet (20 feet by 20 feet, with roughly corresponding height). Any
+creature of 2 HD or fewer that is exposed to the cloud of insects flees in
+terror (no saving throw).
+Invisibility
+Spell Level: Magic-User, 2th Level
+Range: 240 ft
+Duration: Until dispelled or an attack is made
+The object of this spell, whether a person or a thing, becomes invisible
+to both normal sight and darkvision. The result is that an invisible creature
+cannot be attacked unless its approximate location is known, and all attacks
+are made at -4 to hit. If the invisible creature makes an attack, the spell is
+broken. Otherwise, it lasts until dispelled or removed by the caster.
+Invisibility 10-Foot Radius
+Spell Level: Magic-User, 3rd Level
+Range: 240 feet
+Duration: Until dispelled or an attack is made
+Like the Invisibility spell, Invisibility 10-Foot Radius makes the target
+creature or object invisible to normal sight and darkvision. It also,
+however, throws a radius of invisibility around the recipient, which
+moves with him/her/it. Nothing inside the radius of invisibility can be
+attacked unless its approximate location is known, and all attacks are
+made at -4 to hit. If an invisible creature makes an attack, the spell is
+broken. Otherwise, it lasts until dispelled or removed by the caster.
+Invisible Stalker
+Spell Level: Magic-User, 6th Level
+Range: Close
+Duration: Until mission is completed
+This spell summons (or perhaps creates) an invisible stalker, an
+invisible being with 8 HD. (See the Monster section for more details.)
+The stalker will perform one task as commanded by the caster, regardless
+of how long the task may take or how far the stalker may have to travel.
+The stalker cannot be banished by means of Dispel Magic; it must be
+killed in order to deter it from its mission.
+Knock
+Spell Level: Magic-User, 2nd Level
+Range: 60 feet
+Duration: Immediate
+This spell unlocks and unbars all doors, gates, and portals within its
+range, including those held or locked by normal magic.
+Legend Lore
+Spell Level: Magic-User, 6th Level
+Range: Caster
+Duration: See below
+Over the course of long and arduous magical efforts (1d100 days), the
+caster gains knowledge about some legendary person, place, or thing.
+The spell’s final result may be no more than a cryptic phrase or riddle,
+or it might be quite specific.
+Levitate
+Spell Level: Magic-User, 2nd Level
+Range: 20 feet/level
+Duration: 1 turn/level
+This spell allows the Magic-User to levitate himself, moving vertically
+up or down, but the spell itself provides no assistance with lateral
+movement. A wall, cliff side, or ceiling could, of course, be used to pull
+along hand-over-hand. Levitation allows up- or downward movement at
+a rate of up to 6 feet per minute (60 feet per turn), and the caster cannot
+levitate more than 20 feet per level from the ground level where the spell
+was cast. (Such range is applied both to movement into the air and to
+downward movement into a pit or chasm.)
+Light
+Spell Level: Cleric; Magic-User, 1st Level
+Range: 60 feet
+Duration: 1 hour (+10 minutes/level)
+The target person or object (at a range of up to 60 feet) produces light
+about as bright as a torch, to a radius of 20 feet.
+The Cleric version of this spell lasts 2 hours.
+Lightning Bolt
+Spell Level: Magic-User, 3rd Level
+Range: 240 feet (maximum distance)
+Duration: Instantaneous
+A bolt of lighting extends 60 feet from the targeted point, almost ten
+feet wide. Anyone in its path suffers 1d6 points of damage per level
+of the caster (half with a successful saving throw). The bolt always
+extends 60 feet, even if this means that it ricochets backward from
+something that blocks its path.
+Limited Wish
+Spell Level: Magic-User, 7th Level
+Range: Referee’s discretion
+Duration: Changes reality
+This powerful spell allows the caster to change reality, although in limited
+ways and sometimes only for limited periods of time. Such limitations will
+determined by the Referee in accordance with the circumstances.
+Locate Animal
+Spell Level: Druid, 1st level
+Range: 60 feet +10 feet/level
+Duration: 1 round/level
+Within the spell’s range, the caster perceives the correct direction (as
+the crow flies) toward the nearest specimen of a type of animal named
+in the casting of the spell.
+Locate Object (Cleric)
+Spell Level: Cleric, 3rd Level
+Range: 90 feet
+Duration: 1 round/level
+Within the spell’s range, the Cleric perceives the correct direction (as
+the crow flies) toward an object the caster specifies by description in
+the spell. The object must be something the caster has seen, although
+the spell can detect an object in a general class of items known to the
+caster: stairs, gold, etc.
+Locate Object (Magic-User)
+Spell Level: Magic-User, 2nd Level
+Range: 60 feet +10 feet/level
+Duration: 1 round/level
+Within the spell’s range, the caster perceives the correct direction (as
+the crow flies) toward an object the caster specifies by description in
+the spell. The object must be something the caster has seen, although
+the spell can detect an object in a general class of items known to the
+caster: stairs, gold, etc.
+Locate Plants
+Spell Level: Druid, 2nd level
+Range: 60 feet (+10 feet/level)
+Duration: 1 round/level
+The caster perceives the correct direction (as the crow flies) toward
+the nearest specimen of a type of plant named in the casting of the spell.
+Lower Water
+Spell Level: Magic-User, 6th Level
+Range: 240 feet
+Duration: 2 hours
+This spell lowers the depth and water level of lakes, rivers, wells, and
+other bodies of water to one-half normal.
+Magic Jar
+Spell Level: Magic-User, 5th Level
+Range: See below
+Duration: See below
+This spell relocates the caster’s life essence, intelligence, and soul into
+an object of virtually any kind. The ‘jar’ must be within 30 feet of the
+caster’s body for the transition to succeed. Once within the magic jar,
+the caster can possess the bodies of other creatures and people, provided
+that they are within 120 feet of the jar and fail a saving throw. The
+caster can return his or her soul to the magic jar at any time; if a body
+the caster controls is slain, the soul returns to the jar immediately. The
+Magic-User can return from the jar to his or her original body whenever
+desired, thus ending the spell. If the caster’s body is destroyed while his
+or her soul is in the magic jar, the soul no longer has a home other than
+within the magic jar, although the disembodied wizard can still possess
+other bodies as before. If the jar itself is destroyed while the Magic-
+User’s soul is within, the soul is lost.
+Magic Missile
+Spell Level: Magic-User, 1st Level
+Range: 150 feet
+Duration: Immediate
+A magical missile flies where the caster directs, with a range of 150
+feet. At the Referee’s discretion, this spell may have one of two effects:
+1) The Magic-User must roll to hit the target with a +1 bonus to the
+roll. The missile inflicts 1d6+1 points of damage. 2) The missile hits
+automatically, doing 1d4+1 points of damage.
+In either case, the Magic-User casts an additional two missiles for
+every 5 levels of experience. Thus, at 5th level, the caster is able to hurl
+3 magic missiles, and 5 missiles at 10th level.
+Magic Mouth
+Spell Level: Magic-User, 2nd Level
+Range: Touch
+Duration: Permanent until triggered or dispelled
+This enchantment is set upon an object, and the magic is triggered
+when certain conditions established by the caster are met. When that
+happens, a mouth appears on the object and speaks the message it has
+been commanded to speak. The message may be up to thirty words
+long.
+Mass Charm
+Spell Level: Magic-User, 8th Level
+Range: 120 feet
+Duration: Until dispelled
+This spell operates in the same manner and with the same restrictions
+as Charm Person. However, it affects a total of 30 HD of creatures, in
+any combination. All saving throws are made with a penalty of -2.
+Mass Invisibility
+Spell Level: Magic-User, 7th Level
+Range: 240 feet
+Duration: See below
+This spell makes 1d3 x 100 man- or horse-sized creatures (or objects)
+invisible, as if they had been affected by a single Invisibility spell. The
+spell can instead affect up to 6 creatures of dragon size. As with the
+Invisibility spell, the enchantment lasts until dispelled or until one of
+the creatures makes an attack.
+Massmorph
+Spell Level: Magic-User, 4th Level
+Range: 240 feet
+Duration: Until negated by the caster or dispelled
+One hundred or fewer man- or horse-sized creatures are changed
+to appear like innocent trees. The illusion is so perfect that creatures
+moving through the “forest” will not detect the deception.
+Maze
+Spell Level: Magic-User, 9th Level
+Range: 60 feet
+Duration: Depends on Intelligence
+The targeted creature disappears into a gap in reality, where strange
+curving and branching passages conceal the way out. Creatures with
+an Intelligence score lower than 6 require 2d4 x3 rounds (minutes) to
+escape the interdimensional prison. Creatures with Intelligence scores
+7–11 require 2d4 rounds, and creatures with an intelligence of 12+
+require only 1d4 rounds to puzzle their way back into normal reality.
+Although monsters are not described with specific Intelligence scores,
+it should not be hard to determine into which category any specific
+monster falls. Unless ruled otherwise by the Referee, there is no saving
+throw to avoid the spell.
+Meteor Swarm
+Spell Level: Magic-User, 9th Level
+Range: 240 feet
+Duration: Instantaneous
+Tiny meteors swarm from the caster’s hands and explode into balls of fire
+where desired. The caster may hurl 4 normal fireballs for 10d6 damage or
+8 fireballs of 10-foot diameter that inflict 5d6 points of damage. Targets are
+permitted a saving throw, allowing them to take half damage.
+Mind Blank
+Spell Level: Magic-user, 8th Level
+Range: 10-foot radius
+Duration: 24 hours
+The spell protects against all magic spying, including crystal balls,
+spells (including Wish), and even magical scrying by minor deities.
+Mirror Image
+Spell Level: Magic-User, 2nd Level
+Range: Around caster
+Duration: 1 hour or until destroyed
+The spell creates 1d4 images of the caster, acting in perfect
+synchronization with him like mirror images. Attackers cannot
+distinguish the images from the caster, and may attack one of the
+images instead of the caster himself (determined randomly). When a hit
+is scored upon one of the images, it disappears.
+Monster Summoning I
+Spell Level: Magic-User, 3rd Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 38: Monster Summoning I
+Die Roll Monster Summoned1
+1 1d6 Giant Rats
+2 1d3 Dwarves (Goblins)
+3 1d3 Elves (Hobgoblins)
+4 1d6 Kobolds
+5 1d3 Orcs
+6 1d3 Skeletons
+1 Chaotically-aligned casters might get the monster in parenthesis, at
+the Referee’s discretion
+Monster Summoning II
+Spell Level: Magic-User, 4th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 39: Monster Summoning II
+Die Roll Monster Summoned
+1 1d2 Hobgoblins
+2 1d2 Zombies
+3 1d2 Gnolls
+4 1d2 Bugbears
+5 1d6 Orcs
+6 1d6 Skeletons
+Monster Summoning III
+Spell Level: Magic-User, 5th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 40: Monster Summoning III
+Die Roll Monster Summoned
+1 1d4 Bugbears
+2 1d2 Harpies
+3 1d2 Ochre Jellies
+4 1d2 Were-rats
+5 1d2 Wights
+6 1d2 Wild Boar
+Monster Summoning IV
+Spell Level: Magic-User, 6th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 41: Monster Summoning IV
+Die Roll Monster Summoned
+1 1 Gargoyle
+2 1 Ogre
+3 1 Owlbear
+4 1 Shadow
+5 1 Werewolf
+6 1 Wraith
+Monster Summoning V
+Spell Level: Magic-User, 7th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 42: Monster Summoning V
+Die Roll Monster Summoned
+1 1 Cockatrice
+2 1 Manticore
+3 1 Minotaur
+4 1 Ogre Mage
+5 1 Salamander
+6 1 Troll
+Monster Summoning VI
+Spell Level: Magic-User, 8th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 43: Monster Summoning VI
+Die Roll Monster Summoned
+1 1 Black Dragon
+2 1 Chimera
+3 1 Efreeti
+4 1 Flesh Golem
+5 1 Frost Giant
+6 1 Hill Giant
+7 1 Hydra (7 heads)
+8 1 Mummy
+9 1d2 Ogre Magi
+10 1 White Dragon
+Monster Summoning VII
+Spell Level: Magic-User, 9th Level
+Range: N/A
+Duration: 6 rounds (minutes)
+The caster summons allies, who serve him until slain, or until the
+duration of the spell expires. The allies do not appear immediately;
+there is a delay of 1 turn (10 minutes) before they appear.
+Table 44: Monster Summoning VII
+Die Roll Monster Summoned
+1 1d2 Chimerae
+2 1 Fire Giant
+3 1 Hydra (9 heads)
+4 1 Iron Golem
+5 1 Lich
+6 1 Purple Worm
+7 1 Red Dragon
+8 1 Stone Golem
+9 1 Storm Giant
+10 1 Titan
+Move Earth
+Spell Level: Magic-User, 6th Level
+Range: 240 feet
+Duration: 1 hour; effects permanent
+This spell can only be used above ground. It allows the caster to move
+hills and other raised land or stone at a rate of 6 feet per minute (60 feet
+per turn).
+Neutralize Poison
+Spell Level: Cleric, 4th Level; Druid, 3rd Level
+Range: Touch
+Duration: Immediate
+This spell counteracts poison if used promptly, but cannot be used to
+bring the dead back to life later.
+Obscurement
+See Obscuring Mist
+Obscuring Mist
+Spell Level: Druid, 2nd Level
+Range: 20 feet
+Duration: 1 turn/level
+A misty vapor seethes outward from the casting point, billowing forth
+to fill a radius of 20 feet + 10 feet per level of the caster.
+Part Water
+Spell Level: Cleric, 7th Level
+Range: 240 feet
+Duration: 2 hours
+This spell creates a gap through water, to a depth of 20 feet. At 18th
+level and every level thereafter, the Cleric adds 10 feet to the depth of
+water parted, and 1 additional hour to the spell’s duration.
+Part Water
+Spell Level: Magic-User, 6th Level
+Range: 120 feet
+Duration: 1 hour
+This spell creates a gap through water, but only to a depth of 10 feet.
+Passplant
+Spell Level: Druid, 5th Level
+Range: Touch (first tree)
+Duration: 1 hour per level or until exit
+The caster may step into one tree and emerge from a distant tree of the same
+kind; both trees must be living, and have a girth as large as the caster’s own. The
+caster need not step out of the first tree immediately, but may wait within the
+tree for as long as desired (up to the limit of the spell’s duration) before leaving.
+It is possible for the caster to step from tree to tree in series without ending the
+spell; however, upon emerging from any tree into the outside, the caster ends
+the spell. The table below shows the maximum distance the caster may travel
+in a single step; this is also the maximum total distance that can be traveled in
+a single casting of the spell, even if the caster moves through multiple trees.
+Upon casting the spell, the caster will become aware of the various trees within
+the range of the spell, so there is no chance of “missing” the target.
+Table 45: Passplant
+Type of Tree Maximum Distance for Spell
+Oak, ash, yew 3,000 feet
+Elm, linden 2,000 feet
+Other deciduous 1,500 feet
+Any coniferous 1,000 feet
+All other trees 500 feet
+Passwall
+Spell Level: Magic-User, 5th Level
+Range: 30 feet
+Duration: 3 turns (30 minutes)
+This spell creates a hole through solid rock, about 7 feet high, 10
+feet wide, and 10 feet deep (possibly deeper at the discretion of the
+Referee). The hole closes again at the end of the spell’s duration.
+Permanency
+Spell Level: Magic-User, 8th Level
+Range: See below
+Duration: Permanent until dispelled by an opponent of
+twice the caster’s level
+This spell makes the effect of another spell permanent—unless a Magic-
+User of twice the caster’s level dispels it. No more than one Permanency
+is ordinarily possible on any one object, and no more than two upon a
+creature. Considerable Referee discretion is required for the use of this
+spell; many spells should not be subject to being made permanent.
+Phantasmal Force
+Spell Level: Magic-User, 2nd Level
+Range: 240 feet
+Duration: Until concentration ends
+This spell creates an illusion that seems realistic to all who view it.
+The illusion disappears when it is touched, but if the viewer believes the
+illusion is real, it can cause damage. Unless the Referee rules otherwise,
+victims of the spell are permitted a saving throw, and the illusion cannot
+cause more than 2d6 points of damage per victim. This will depend on
+circumstances; a truly brilliant use of the spell can be quite devastating,
+and a poorly thought-out illusion might cause almost immediate disbelief.
+Phase Door
+Spell Level: Magic-User, 7th Level
+Range: 10 feet from caster
+Duration: Seven uses
+The phase door is an invisible portal about 7 feet high, 10 feet wide,
+and 10 feet deep, accessible only to the caster. A barrage of Dispel
+Magic spells can close the passage, but only if the combined level of
+the dispelling casters is twice that of the portal’s creator.
+Plant Door
+See Plant Doorway
+Plant Doorway
+Spell Level: Druid, 4th Level
+Range: Passage begins where caster stands
+Duration: 3 turns + 1 turn/level
+This spell opens a pathway for the caster through even the deepest and
+most tangled growths of plants, thorns, and trees. The pathway can be
+made up to 5 feet wide, 6 feet tall, and 100 feet in length, but only the
+caster can move through it. The Druid may choose to remain housed
+safely inside a tree, if the spell has opened a passage through one. It is
+possible to remain within the tree after the spell expires; for as long as
+desired, in fact, before leaving it.
+Plant Growth
+Spell Level: Druid, 3rd Level; Magic-User, 4th Level
+Range: 240 feet
+Duration: Permanent until dispelled
+Undergrowth in the area suddenly grows into an impassable forest
+of thorns and vines. Up to 300 square feet of ground can be affected
+by this spell and the caster can decide the shape of the area to be
+enchanted. An alternate version (Referee’s decision) would allow the
+spell to affect an area of 300 feet x 300 feet, for a total of 90,000
+square feet).
+Polymorph Object
+Spell Level: Magic-User, 8th Level
+Range: 240 feet
+Duration: Referee’s discretion
+An object can be turned into another object, animal, vegetable,
+or mineral. The degree of change will affect the spell’s duration.
+Animal-to-animal changes, vegetable-to-vegetable changes, and
+mineral-to-mineral changes are all likely to remain permanent
+until dispelled. Thus, turning a human into an orc, or turning a
+wall into a pile of sand, would both result in a permanent change.
+On the other hand, turning a shrub into a thinking human being
+would last only a small number of turns. Determining how long a
+proposed use of the spell will last is the province of the Referee;
+it is important to remember that this is an eighth-level spell of
+considerable power—but not as powerful as a ninth-level Wish
+spell.
+Polymorph Other
+Spell Level: Magic-User, 4th Level
+Range: 240 feet
+Duration: Permanent until dispelled
+This spell allows the caster to turn another being into a different
+type of creature, such as a dragon, a garden slug, or of course, a frog
+or newt. The polymorphed creature gains all the abilities of the new
+form, but retains its own mind and hit points.
+Polymorph Self
+Spell Level: Magic-User, 4th Level
+Range: Caster
+Duration: 1 hour or Referee’s discretion
+The caster assumes the form of any object or creature, gaining the
+new form’s attributes (the use of wings, for example), but not its hit
+points or combat abilities. The Referee might allow the benefit of the
+new form’s armor class, if it is due to heavily armored skin. A great deal
+of the spell’s effect is left to the Referee to decide.
+Power Word, Blind
+Spell Level: Magic-User, 8th Level
+Range: 120 feet
+Duration: 1d4 or 2d4 days (See below)
+The caster speaks a word of power to a particular creature. If that
+creature has 40 hit points or fewer, it is instantly blinded for 2d4 days;
+if the creature has from 41 to 80 hit points, it is blinded for 1d4 days. If
+the creature has more than 80 hit points it is not affected by the spell.
+No saving throw applies.
+Power Word, Kill
+Spell Level: Magic-User, 9th Level
+Range: 120 feet
+Duration: Immediate
+The caster speaks a word of power to a particular creature. If that creature
+has 50 hit points or fewer, it is slain by the word it hears; if it has more than
+50 hit points it is not affected by the spell. No saving throw is permitted.
+Power Word, Stun
+Spell Level: Magic-User, 7th Level
+Range: 120 feet
+Duration: 1d6 or 2d6 turns (See below)
+The caster speaks a word of power to a particular creature. If that
+creature has 35 or fewer hit points, it is instantly stunned for 2d6 turns;
+if the creature has from 36 to 70 hit points, it is stunned for only 1d6
+turns. If the creature has more than 70 hit points it is not affected by the
+spell. No saving throw is permitted.
+Prayer
+Spell Level: Cleric, 3rd Level
+Range: 30 feet
+Duration: Following melee round
+The Prayer spell seeks short-term favor from the gods to help some
+other spell or attack to succeed. Prayer affects a 20-foot x 20-foot area,
+causing a saving throw penalty to all creatures in that area. The penalty
+is a -1, plus an additional -1 for every ten caster levels. Thus, a 10th
+level Cleric causes a saving throw penalty of -2. The penalty actually
+takes effect in the melee round following the one in which it was cast.
+Predict Weather
+Spell Level: Druid, 1st Level
+Range: Centered on caster
+Duration: Immediate
+The Druid silently drinks in knowledge from the surrounding area,
+becoming attuned to the patterns of air, wind, earth and fire. Within
+moments, the character can predict what the weather conditions will
+be for the next twelve hours in the immediate vicinity (2 square miles/
+level). As with most forecasts of weather, conditions may change
+unexpectedly, giving rise to a 5% chance that the Druid’s prediction
+will, ultimately, prove to be incorrect.
+Prismatic Sphere
+Spell Level: Magic-User, 9th Level
+Range: 10-foot sphere
+Duration: 1 hour
+A sphere of seven colors whirls about the Magic-User, with a radius of
+10 feet. The glowing colors form a layered spectrum; to destroy the sphere,
+each layer must be destroyed in turn from Red to Orange, to Yellow, to
+Blue, to Indigo, and then to the innermost Violet layer. Any creature of 7
+or fewer hit dice that looks upon the sphere will be blinded for 1d6 turns.
+Table 46: Prismatic Sphere
+Layer Effects of Color Negated By
+Red
+Causes 12 points
+of damage when
+touched. Stops any
+magic arrows or
+missiles (including
+the spell Magic
+Missile).
+Ice Storm or other
+cold-based attack
+Orange
+Causes 24 points
+of damage when
+touched. Stops
+arrows and any
+other non-magical
+missile.
+Lightning Bolt or
+other electrical
+attack
+Yellow
+Causes 48 points
+of damage when
+touched. Blocks all
+breath weapons.
+Magic Missile spell
+or a magical arrow
+Green
+Causes death
+(saving throw
+allowed) when
+touched. Blocks
+any scrying and
+detection-type spells
+from seeing within.
+Passwall spell or
+other earth-moving
+magic
+Blue
+Turns flesh to stone
+when touched
+(saving throw
+allowed). Blocks
+all divine (Clerical)
+magic from passing
+through.
+Disintegrate spell
+(may be from a
+wand or item)
+Indigo
+Causes death
+and destroys the
+soul utterly when
+touched (saving
+throw allowed).
+Dispel Magic
+Violet
+Causes permanent
+insanity when
+touched. Blocks
+all arcane (Magic-
+User) spells.
+Continual Light
+Produce Fire
+Spell Level: Druid, 4th Level
+Range: 30 feet
+Duration: 1 turn (10 minutes)
+This spell instantly creates fire in an area of up to 10 feet x 10 feet.
+The fire burns for no longer than ten minutes without fuel, but will
+set alight any flammable materials in the area where it was summoned
+forth. The spell may also be reversed to quench flames rather than ignite
+them.
+Produce Flame
+Spell Level: Druid, 2nd Level
+Range: Palm of hand
+Duration: 2 turns/level
+Flame ignites from nowhere in the palm of the caster’s hand, causing
+no damage to the caster, but otherwise as hot as natural fire. It can be
+used while held, or thrown to a distance of 30 feet, to ignite flammable
+materials. For so long as the druid-fire is in the caster’s hand, it can be
+extinguished immediately whenever the caster wishes it gone.
+Project Image
+Spell Level: Magic-User, 6th Level
+Range: 240-foot sphere
+Duration: 1 hour
+The caster projects an image of himself or herself, to a maximum
+range of 240 feet. Not only does the projected image mimic the caster’s
+sounds and gestures, but also any spells being cast will appear to
+originate from the image.
+Protection from Evil
+Spell Level: Cleric, 1st Level; Magic-User, 1st Level
+Range: Caster
+Duration: 2 hours
+Creates a magical field of protection immediately around the caster,
+blocking out all enchanted monsters such as elementals and demons).
+Evil monsters suffer a -1 penalty to hit the caster, and the caster gains +1
+on all saving throws against such attacks. If the caster already has any
+magical bonuses to saving throws or armor class, the bonus from the
+magic circle has no effect, although the protective circle still functions
+against enchanted creatures.
+The Magic-User version of this spell is exactly the same as the one
+used by the Cleric, except that it has a duration time of 1 hour.
+Protection from Evil, 10-Foot Radius
+Spell Level: Cleric, 4th Level; Magic-User, 3rd Level
+Range: Centered on caster
+Duration: 1 hour
+The spell creates a magical field of protection, ten feet in radius,
+around the caster. The field blocks out all enchanted monsters (such
+as elementals and demons). Evil monsters suffer a -1 penalty to hit
+anyone within the protective globe, and these shielded individuals gain
++1 on all saving throws against such attacks. If a person in the circle
+already has any magical bonuses to saving throws or armor class, the
+bonus from the magic circle has no effect for that person, although the
+protective circle still functions against enchanted creatures.
+Protection from Fire
+Spell Level: Druid, 3rd Level
+Range: Touch
+Duration: 3 turns +1 turn/level
+Protection from Fire may be cast on another person, but it confers a great
+deal more eldritch warding if it is woven personally around the caster.
+When used to protect another creature, the spell’s warding grants complete
+immunity to normal fire and cuts damage from magical fire in half. When
+used to ward the caster, the spell also grants complete immunity against one
+exposure to magical fire, after which it functions normally.
+Protection from Lightning
+Spell Level: Druid, 4th Level
+Range: Touch
+Duration: 6 turns +1 turn/level
+This spell protects any creature from lightning, reducing any damage
+by one-half. Once lightning strikes, however, the spell ends.
+Protection from Normal Missiles
+Spell Level: Magic-User, 3rd Level
+Range: Caster
+Duration: 2 hours
+The caster becomes invulnerable to non-magical missiles, although
+larger missiles such as boulders will overcome the spell’s magic.
+Purify Food and Drink
+Spell Level: Cleric, 1st Level
+Range: Close/Touch (Referee’s discretion)
+Duration: Immediate
+Enough food and water for up to a dozen people is made pure,
+removing spoilage and poisons.
+Purify Water
+Spell Level: Druid, 1st Level
+Range: Close/Touch (Referee’s discretion)
+Duration: Immediate
+Approximately ten gallons of water is made pure, removing all
+poisons, algae, and other such contaminants.
+Pyrotechnics
+Spell Level: Druid, 3rd Level; Magic-User, 2nd Level
+Range: 240 feet
+Duration: 1 hour
+The caster creates either fireworks or blinding smoke from a
+normal fire source such as a torch or campfire. The Referee will
+decide exactly how much smoke (or fireworks) is produced, what
+effect it has, and what happens to it as it is produced, but the amount
+of smoke will definitely be more than 8000 cubic feet (roughly 20
+x 20 x 20 feet).
+Quest
+Spell Level: Cleric, 5th Level
+Range: Speaking range
+Duration: Until completed
+If the spell succeeds (saving throw applies), the caster may set a
+task for the spell’s victim. If the victim does not diligently work at
+performing the task, a deadly weakness will set in (50% reduction in
+Strength), and an attempt to entirely abandon the quest incurs a curse
+set by the caster in the wording of the original Quest. The details, of
+course, must be approved by the Referee.
+Raise Dead
+Spell Level: Cleric, 5th Level
+Range: Close/Touch (Referee’s discretion)
+Duration: Immediate
+Raise Dead allows the Cleric to raise a corpse from the dead, provided
+it has not been dead too long. The normal time limit is 5 days, but
+for every caster level higher than 8th, the time limit extends another 5
+days. Characters with low Constitution might not survive the ordeal,
+and even for those with strong Constitution a period of at least a week is
+required before they can function normally. This spell functions only on
+“human-like” races, that is, ones that can be used for player characters.
+Read Languages
+Spell Level: Magic-User, 1st Level
+Range: Normal reading distance
+Duration: One or two readings
+This spell allows the caster to decipher directions, instructions, and
+formulae in languages unknown to the caster. This can be particularly
+useful for treasure maps, but it does not solve any codes.
+Read Magic
+Spell Level: Magic-User, 1st Level
+Range: Caster only
+Duration: 2 scrolls or other magical writings
+This spell allows the caster to read the magical writings upon scrolls
+and (occasionally) dungeon walls. Without the use of this spell, magical
+writing cannot be read even by a Magic-User.
+Reincarnation (Druidic)
+Spell Level: Druid, 7th Level
+Range: Touch
+Duration: Instantaneous
+This spell brings a dead person’s soul back from the dead, but the
+soul reappears in a newly formed body. Druidic Reincarnation will
+not affect someone who has been dead more than a week. Roll 1d100,
+and on a roll of 01-75 the result is determined from the same table as
+would be used for a Magic-User’s Reincarnation spell (below). If the
+percentile dice gave a result of 76-00, roll 1d6 on the following table:
+Table 47: Druidic Reincarnation
+Die Roll Reincarnated as …
+1 Bear
+2 Lion
+3 Mouse
+4 Raven
+5 Stag
+6 Wolf
+Reincarnation (Magic-User)
+Spell Level: Magic-User, 6th Level
+Range: Touch
+Duration: Instantaneous
+This spell brings a dead person’s soul back from the dead, but the
+soul reappears in a newly formed body. Reincarnation will not affect
+someone who has been dead more than a week. Roll 1d20 on the
+following table. If the resulting creature is a normal character race, roll
+1d6 to determine the character’s new level.
+Table 48: Reincarnation by Magic-Users
+Die Roll Reincarnated as...
+1 Bugbear
+2 Centaur
+3 Dog, Cat, or Wolf
+4 Dwarf
+5 Elf
+6 Gnoll
+7 Goblin
+8 Half-orc
+9 Harpy
+10 Hobgoblin
+11 Human
+12 Kobold
+13 Lizard man
+14 Lycanthrope (Werewolf or other)
+15 Minotaur
+16 Ogre
+17 Ogre Mage
+18 Orc
+19 Troll
+20 Wyvern
+Remove Curse
+Spell Level: Cleric, 3rd Level; Magic-User, 4th Level
+Range: Very close
+Duration: Immediate
+This spell removes one curse from a person or object.
+Repel Wood
+Spell Level: Druid, 6th Level
+Range: 20 feet/level
+Duration: 1 turn/level
+When this spell is cast, a mystical druidic force issues forth from a
+place designated by the caster, in roughly the shape of a wall 120 feet
+across. This power rolls forward at a rate of 5 feet per round directly
+away from the caster, inexorably pressing all wood, or wooden objects,
+backward. Once the power is set in motion, it cannot be stopped other
+than by the caster’s command
+Repulsion
+Spell Level: Magic-User, 6th Level
+Range: 120 feet
+Duration: 1 hour
+Any creature trying to move toward the caster finds itself moving
+away, instead.
+Restoration
+Spell Level: Cleric, 7th Level
+Range: Referee’s discretion
+Duration: Immediate
+This spell restores levels lost to such horrible creatures as wraiths
+and shadows. An evil reversal of the spell allows a Chaotically aligned
+Cleric to drain a level from the target. The “good” version of the spell
+is exhausting to the caster, incapacitating him for 2d10 days. At the
+discretion of the Referee, this spell may restore lost points of attribute
+scores as well as lost levels.
+Resurrection
+Spell Level: Cleric, 7th Level
+Range: Referee’s discretion
+Duration: Immediate
+This spell (also known as “Raise Dead Fully”) raises the dead back
+to life, in the same manner as the Raise Dead spell. It is, however,
+considerably more powerful: the person raised from the dead needs no
+time to recuperate from the experience of death, and suffers no other
+penalties. An evil “reversal” of the spell can also be cast, which causes
+death with no saving throw.
+Reverse Gravity
+Spell Level: Magic-User, 7th Level
+Range: 90 feet
+Duration: 1 round (minute)
+The spell reverses gravity in a cubical area approximately 30 feet x 30
+feet x 30 feet in size. Everything in the area falls upward, and then when
+the spell ends it all falls back down again.
+Rope Trick
+Spell Level: Magic-User, 3rd Level
+Range: As far as the caster can throw a rope
+Duration: 1 hour +1 turn/level
+The caster tosses a rope into the air and it hangs there, waiting to
+be climbed. The caster and up to three others can climb the rope and
+disappear into a small ‘other’ dimension. The rope itself can be pulled
+into the pocket dimension, or left outside. If it is left outside, however,
+someone may steal it.
+Shape Change
+Spell Level: Magic-User, 9th Level
+Range: Caster
+Duration: 1d6+10 turns +1 turn/level
+When the caster casts this spell upon him- or herself, it allows the
+caster to turn at will into a variety of creatures. In each form, the
+wizard gains the characteristics of the creature, much as with the
+Polymorph Others spell. Thus, turning into a dragon actually allows
+the caster to use the dragon’s breath weapon. The caster might then
+choose to turn into a raven, then a frog, or whatever other creature
+is chosen. It is not, of course, required that the caster use more than
+one shape—remaining as a dragon for the duration of the spell works
+perfectly well.
+Shield
+Spell Level: Magic-User, 1st Level
+Range: Caster
+Duration: 2 turns
+The caster conjures up an invisible shield that interposes itself in front
+of attacks. The shield improves the caster’s armor class to 2 [17] against
+missile attacks and to 4 [15] against other (melee) attacks. If the caster’s
+armor class is already better than the spell would grant, the spell has
+no effect.
+Silence, 15-Foot Radius
+Spell Level: Cleric, 2nd Level
+Range: 180 feet
+Duration: 12 turns
+Magical silence falls in an area with a 15-foot radius around the
+targeted creature or object, and moves with it. Nothing from this area,
+no matter how loud, can be heard outside the radius.
+Simulacrum
+Spell Level: Magic-User, 7th Level
+Range: Touch
+Duration: Permanent
+The caster creates a duplicate of himself or some other person.
+The basic form is created from snow and ice, and must then be
+animated. (Animate Dead is an acceptable means.) A Limited Wish
+(along with the actual Simulacrum spell) is then used to imbue
+the animated form with intelligence and certain knowledge of the
+person being simulated. The simulacrum gains 30–60% (use a d4) of
+the simulated creature’s knowledge and experience. The simulacrum
+follows its creator’s orders. Note that the simulacrum is not a
+perfect representation of the original. Side by side, the differences
+are obvious, and the simulacrum is a magical creature detectable
+with a Detect Magic spell. If the original of the simulacrum dies, a
+strange effect begins: the simulacrum begins to gain the knowledge
+and experience of the dead individual at a rate of 1% per week, to a
+maximum of 90%.
+Sleep
+Spell Level: Magic-User, 1st Level
+Range: 240 feet
+Duration: 1 hour
+This spell puts enemies into an enchanted slumber (no saving throw
+permitted). It affects creatures based on their hit dice.
+Table 49: Sleep
+Hit Dice of Victims Number Affected
+Less than 1 to 1 2d8
+1+ to 2+ 2d6
+3 to 3+ 1d6
+4 to 4+ 1
+Slow
+Spell Level: Magic-User, 3rd Level
+Range: 240 feet
+Duration: 3 turns (30 minutes)
+In an area with a radius of 60 feet around the point where the spell is
+targeted, as many as 24 creatures failing a saving throw can move and
+attack only at half speed.
+Snake Charm
+Spell Level: Cleric, 2nd Level
+Range: 60 feet
+Duration: 1d4+2 turns
+One hit die (1 HD) of snakes can be charmed per level of the caster.
+The snakes obey the caster’s commands.
+Speak with Animals
+Spell Level: Cleric, 2nd Level; Druid, 2nd Level
+Range: Caster
+Duration: 6 turns
+The caster can speak with normal animals. There is a good chance
+that the animals will provide reasonable assistance if requested, and
+they will not attack – unless the caster uses the spell to say something
+particularly offensive.
+Speak with Dead
+Spell Level: Cleric, 3rd Level
+Range: Close/Touch (Referee’s discretion)
+Duration: 3 questions
+The caster can ask three questions of a corpse, and it will answer,
+although the answers might be cryptic. Only higher-level Clerics have
+enough spiritual power to command answers of long-dead corpses.
+Clerics lower than 8th level can gain answers only from bodies that
+have been dead 1d4 days. Clerics levels 8–14 can speak to corpses
+that have been dead 1d4 months. Clerics of level 15+ can gain answers
+from a corpse of any age, including thousand-year-old relics, as long
+as the body is still relatively intact. Note that a die roll is involved
+here: for example, a seventh-level Cleric attempting to speak with a
+two-day-old corpse might still fail—the d4 roll might indicate that
+only a one-day-old corpse can be reached with this particular attempt
+at the spell.
+Speak with Monsters
+Spell Level: Cleric, 6th Level
+Range: Speaking range
+Duration: 3d4 questions
+The caster can speak with any type of monster, for the duration of a
+certain number of questions. The monster is not forced to answer.
+Speak with Plants
+Spell Level: Cleric, 4th Level; Druid, 4th Level
+Range: Speaking range
+Duration: 6 turns
+The caster can speak and understand the speech of plants. Plants smaller
+than trees will obey commands, moving aside when requested, etc.
+Sticks to Snakes
+Spell Level: Cleric, 4th Level; Druid, 5th Level
+Range: 120 feet
+Duration: 1 hour
+The caster may turn as many as 2d8 normal sticks into snakes, each
+one having a 50% chance of being venomous. The snakes follow
+commands, but turn back into sticks at the end of the spell, or when
+killed.
+Stone to Flesh
+Spell Level: Magic-User, 6th Level
+Range: 120 feet
+Duration: Permanent until reversed
+This spell can be used to counteract the negative effects of monsters
+who petrify their victims. It can also be reversed to turn flesh into stone,
+as desired by the caster. A saving throw is permitted to avoid being
+turned to stone, but if the spell succeeds the victim is transformed into
+a statue; the stone-to-flesh version of the spell will restore the victim
+to normal.
+Strength
+Spell Level: Magic-User, 2nd Level
+Range: Touch
+Duration: 8 hours (80 turns)
+This spell may be cast upon a Fighter or a Cleric. For the duration
+of the spell, a Fighter gains 2d4 points of Strength, and a Cleric gains
+1d6 points of Strength. Strength cannot exceed 18 unless the Referee
+chooses to allow additional bonuses resulting from the additional
+Strength.
+Suggestion
+Spell Level: Magic-User, 3rd Level
+Range: Shouting distance
+Duration: 1 week
+The caster speaks a hypnotic suggestion to the intended victim.
+Victims who fail a saving throw will carry out the suggestion, as long
+as it can be performed within a week. The suggestion might not call for
+the action to be carried out immediately, and can be contingent upon
+something else happening first. A suggestion that the victim commit
+suicide is only 1% likely to be obeyed.
+Symbol (Cleric)
+Spell Level: Cleric, 7th Level
+Range: Referee’s discretion (according to symbol)
+Duration: Varies (depends upon symbol used)
+A Symbol spell creates a deadly magical trap, written into the shape
+of a divine rune. The rune’s magic is activated when any person or
+creature hostile to the caster reads it, or passes over, under, or past it.
+Various different runes are known, and others may be possible:
+Symbol of Discord: Causes all creatures in the hostile group to begin
+arguing, and possibly fighting amongst themselves with lethal intent.
+Symbol of Fear: Casts a Fear spell.
+Symbol of Sleep: Casts a Sleep spell affecting double the normal
+number of creatures and with double the normal duration.
+Symbol of Stunning: Up to 150 hit points of creatures are affected as
+per a Power Word, Stun.
+Divine symbols cannot be crafted in such a way that would cause a
+permanent effect (such as insanity) upon those affected.
+Symbol (Magic-User)
+Spell Level: Magic-User, 8th Level
+Range: Referee’s discretion (according to symbol)
+Duration: Varies (depends upon symbol used)
+A Symbol spell creates a deadly magical trap, written into the shape
+of an arcane rune. The rune’s magic is activated when any person or
+creature hostile to the caster reads it, or passes over, under, or past it.
+Various different runes are known, and others may be possible:
+Symbol of Death: Deals a total of 75 hit points of damage.
+Symbol of Discord: Causes all creatures in the hostile group to begin
+arguing, and possibly fighting amongst themselves with lethal intent.
+Symbol of Fear: Casts a Fear spell.
+Symbol of Insanity: Up to 100 hit points of creatures are driven insane
+by a curse.
+Symbol of Sleep: Casts a Sleep spell affecting double the normal
+number of creatures and with double the normal duration.
+Symbol of Stunning: Up to 150 hit points of creatures are affected as
+per a Power Word, Stun.
+Telekinesis
+Spell Level: Magic-User, 5th Level
+Range: 120 feet
+Duration: 6 turns (1 hour)
+The caster can move objects using mental power alone. The amount
+of weight that can be lifted and moved is 20 pounds per level. It is up
+to the Referee’s interpretation of the spell whether the objects can be
+thrown, and at what speed.
+Teleport
+Spell Level: Magic-User, 5th Level
+Range: Touch
+Duration: Instantaneous
+This spell transports the caster or another person to a destination that
+the caster knows, or at least knows what it looks like from a picture
+or a map. Success depends on how well the caster knows the targeted
+location, as follows:
+1. If the caster has only seen the location in a picture or through a map
+(so that knowledge is not based on direct experience), there is only a
+25% chance of success, and failure means death, for the traveler’s soul
+is lost in the spaces between realities.
+2. If the caster has seen but not studied the location, there is a 20%
+chance of error. In the case of an error, there is a 50% chance that
+the traveler arrives low, 1d10 x10 feet below the intended location
+(with death resulting from arrival within a solid substance). If the
+error is high (over the 50% chance for a “low” arrival), the traveler
+arrives 1d10 x10 feet above the targeted location—likely resulting in
+a deadly fall.
+3. If the caster is well familiar with the location, or has studied it carefully,
+there is only a 5% chance of error. On a 1 in 6 the teleport is low, otherwise
+it is high. In either case, the arrival is 1d4 x10 feet high or low.
+Time Stop
+Spell Level: Magic-User, 9th Level
+Range: Caster
+Duration: 1d4+1 rounds
+The caster stops the passage of time in a radius of about 15 feet
+around himself. (The time-stopped area does not thereafter move with
+the caster.) Any creatures within this area are suspended in time, unable
+to act. The caster is not stopped in time while in the area or beyond.
+Transmute Metal to Wood
+Spell Level: Druid, 7th Level
+Range: 120 feet
+Duration: Permanent
+This spell transmutes metal into wood in a 10-foot x 10-foot area.
+Each discrete piece of metal is allowed a saving throw. (Coins may
+be checked in batches rather than rolling hundreds of saving throws.)
+The effect cannot be dispelled, although a reversed version of this spell
+could be used to undo the transmutation.
+Transmute Rock to Mud
+Spell Level: Druid, 5th Level; Magic-User, 5th Level
+Range: 120 feet
+Duration: 3d6 days, unless reversed
+This spell transmutes rock (and any other form of earth, including
+sand) into mud. An area of roughly 300 x 300 feet becomes a deep mire,
+reducing movement to 10% of normal.
+Transport via Plants
+Spell Level: Druid, 6th Level
+Range: Touch first plant
+Duration: 24 hours or until travel is completed
+The caster may enter any normal plant and pass any distance to a chosen
+plant of the same kind in a single round, regardless of the distance separating
+the two. Both plants must be alive. The caster may also choose to remain
+in one or the other of the two plants for up to 24 hours, but the destruction
+of an occupied plant slays the caster and ejects the body from the plant. The
+caster becomes aware of all plants within 3000 feet, and the spell will not
+fail if the attempted travel is made within this radius. However, if the caster
+attempts to travel beyond this radius into the substance of a plant the caster
+has never before seen – meaning that specific plant, not just the species –
+there is a 20% chance of error during travel. The exact nature of the error
+depends upon specific circumstances, but it is likely to be off by a margin of
+at least 1d6 miles, into any other sort of plant.
+Turn Wood
+See Repel Wood
+Wall of Fire
+Spell Level: Druid, 5th Level; Magic-User, 4th Level
+Range: 60 feet
+Duration: Concentration
+A wall of fire flares into being and burns for as long as the caster
+concentrates upon it. Creatures with 3 or fewer hit dice cannot pass
+through it, and no creature can see through it to the other side. Passing
+through the fire inflicts 1d6 hit points of damage (no saving throw)
+and undead creatures sustain twice the normal damage. The caster
+may choose to create a straight wall 60 feet long and 20 feet high, or a
+circular wall with a 15-foot radius, also 20 feet high.
+Wall of Ice
+Spell Level: Magic-User, 4th Level
+Range: 60 feet
+Duration: Concentration
+The caster conjures up a wall of ice, six feet thick and non-transparent.
+The caster may choose to create a straight wall 60 feet long and 20
+feet high, or a circular wall with a 15-foot radius, also 20 feet high.
+Creatures with 3 or fewer hit dice cannot affect the wall, but creatures
+of 4+ hit dice are able to smash through it, taking 1d6 points of damage
+in the process. Creatures with fire-based metabolisms take 2d6 instead
+of the normal 1d6. Fire spells and magical effects are negated in the
+vicinity of the wall.
+Wall of Iron
+Spell Level: Magic-User, 5th Level
+Range: 60 feet
+Duration: 2 hours
+The caster conjures an iron wall from thin air. The wall is 3 feet thick,
+50 feet tall, and 50 feet long.
+Wall of Stone
+Spell Level: Magic-User, 5th Level
+Range: 60 feet
+Duration: Permanent until dispelled
+The wall of stone conjured by this spell is two feet thick, with a
+surface area of 1,000 square feet. The caster might choose to make the
+wall 50 feet long (in which case it would be 20 feet tall), or 100 feet
+long (in which case it would be only 10 feet tall).
+Warp Wood
+Spell Level: Druid, 2nd Level
+Range: 60 feet
+Duration: Permanent
+This spell warps, bends, and twists wood. The volume of about one
+2-inch x 4-inch x 5-foot plank may be affected per every two levels of
+the caster – the volume of a spear or several arrows. However, keep in
+mind that springing a door open or causing a leak in a ship’s planking
+does not actually require much of the constituent wood to be warped.
+Water Breathing
+Spell Level: Druid, 3rd Level; Magic-User, 3rd Level
+Range: 30 feet
+Duration: 2 hours
+The recipient of the spell is able to breathe underwater until the spell’s
+duration expires.
+Weather Summoning
+Spell Level: Druid, 6th Level
+Range: Centered on caster
+Duration: 1 hour/level
+Within 30 minutes, whatever weather the Druid desires will form in
+the surrounding five-mile radius. It is not under the caster’s control,
+in the sense that it will not specifically target any individuals or affect
+one place within the radius more than any other place. Note that this
+spell is not by any means the only way in which groups of druids might
+exercise control over weather conditions using holy places or acting
+together in mystic rituals. It is simply the manner by which a lone (but
+powerful) Druid can summon forth weather conditions using no ritual
+beyond mere spell casting.
+Web
+Spell Level: Magic-User, 2nd Level
+Range: 30 feet
+Duration: 8 hours
+Fibrous, sticky webs fill an area up to 10 x 10 x 20 feet. It is extremely
+difficult to get through the mass of strands—it takes one turn if a torch
+and sword (or a flaming sword) are used, and creatures larger than a
+horse can break through in 2 turns. Humans alone take more time to
+break through—perhaps 3–4 turns or longer at the Referee’s discretion.
+Wind Walk
+Spell Level: Cleric, 7th Level
+Range: Touch
+Duration: 1 day or until dispelled
+The caster and one other person in contact with him become
+incorporeal and mist-like, able to travel through walls and other
+obstacles. The Cleric can bring this companion along and travel at 48
+feet per minute indoors (or in subterranean settings) and much faster
+outdoors.
+Wish
+Spell Level: Magic-User, 9th Level
+Range: Unlimited
+Duration: See below
+This spell is not all-powerful; it grants wishes of limited scope
+(although more powerful than a Limited Wish). The Referee’s
+discretion will rule what sort of wishes are within the spell’s power.
+(One possible—unofficial—guideline might be that a Wish can grant
+effects that would be similar in power to a spell of level 8 or lower,
+with permanent effects in many cases.) After casting a Wish spell, the
+Magic-User is mentally drained and unable to cast spells for a period
+of 1d4 days.
+Wizard Eye
+Spell Level: Magic-User, 4th Level
+Range: 240 feet
+Duration: 1 hour
+The caster conjures up an invisible, magical “eye,” that can move a
+maximum of 240 feet from its creator. It floats along as directed by the
+caster, at a rate of 120 feet per turn (12 feet per minute).
+Wizard Lock
+Spell Level: Magic-User, 2nd Level
+Range: Close
+Duration: Permanent until dispelled
+As with a Hold Portal spell, Wizard Lock holds a door closed, but it is
+permanent until dispelled. Creatures with magic resistance can shatter
+the spell without effort. Any Magic-User at least three levels higher
+than the caster can open the portal, and a Knock spell will open it as
+well, although the spell is not permanently destroyed in these cases.
+Word of Recall
+Spell Level: Cleric, 6th Level
+Range: Indefinite
+Duration: Immediate
+The Cleric teleports without error back to a prepared sanctuary

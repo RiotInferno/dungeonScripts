@@ -1,0 +1,192 @@
+Aerial Servant
+Animal Growth
+Animal Summoning I
+Animal Summoning II
+Animal Summoning III
+Animate Dead
+Animate Object
+Animate Rock
+Anti-Animal Ward
+Anti-Magic Shell
+Anti-Plant Ward
+Astral Spell
+Blade Barrier
+Bless
+Call Lightning
+Charm Monster
+Charm Person
+Charm Plants
+Clairaudience
+Clairvoyance
+Clone
+Cloudkill
+Commune
+Commune with Nature
+Confusion
+Conjuration of Animals
+Conjuration of Demons
+Conjuration of Earth Elementals
+Conjuration of Elementals
+Conjuration of Fire Elementals
+Contact Other Plane
+Continual Light
+Control Temperature 10-ft. Radius
+Control Weather
+Control Winds
+Create Food
+Create Water
+Creeping Doom
+Cure Disease
+Cure Light Wounds
+Cure Serious Wounds
+Darkness, 15-foot Radius
+Darkvision
+Death Spell
+Delayed Blast Fireball
+Detect Evil
+Detect Invisibility
+Detect Magic
+Detect Snares & Pits
+Dimension Door
+Disintegrate
+Dispel Evil
+Dispel Magic
+ESP
+Earthquake
+Enchant Item
+Explosive Runes
+Extension I
+Extension II
+Extension III
+Faerie Fire
+Fear
+Feeblemind
+Find Traps
+Find the Path
+Finger of Death
+Fire Storm
+Fireball
+Fly
+Gate
+Geas
+Hallucinatory Forest
+Hallucinatory Terrain
+Haste
+Heat Metal
+Hold Animal
+Hold Monster
+Hold Person
+Hold Plant
+Hold Portal
+Holy Word
+Ice Storm
+Insect Plague
+Invisibility
+Invisibility, 10-foot Radius
+Invisible Stalker
+Knock
+Legend Lore
+Levitate
+Light
+Lightning Bolt
+Limited Wish
+Locate Animals
+Locate Object
+Locate Plants
+Lower Water
+Magic Jar
+Magic Missile
+Magic Mouth
+Mass Charm
+Mass Invisibility
+Massmorph
+Maze
+Meteor Swarm
+Mind Blank
+Mirror Image
+Monster Summoning I
+Monster Summoning II
+Monster Summoning III
+Monster Summoning IV
+Monster Summoning V
+Monster Summoning VI
+Monster Summoning VII
+Move Earth
+Neutralize Poison
+Obscuring Mist
+Part Water
+Passplant
+Passwall
+Permanency
+Phantasmal Force
+Phase Door
+Plant Doorway
+Plant Growth
+Polymorph Object
+Polymorph Other
+Polymorph Self
+Power Word, Blind
+Power Word, Kill
+Power Word, Stun
+Prayer
+Predict Weather
+Prismatic Sphere
+Produce Fire
+Produce Flame
+Project Image
+Protection Against Fire
+Protection from Evil
+Protection from Evil, 10-foot
+Protection from Lightning
+Protection from Normal Missiles
+Purify Food and Drink
+Purify Water
+Pyrotechnics
+Quest
+Radius
+Raise Dead
+Read Languages
+Read Magic
+Reincarnation
+Remove Curse
+Repel Wood
+Repulsion
+Restoration
+Resurrection
+Reverse Gravity
+Rope Trick
+Shape Change
+Shield
+Silence, 15-foot Radius
+Simulacrum
+Sleep
+Slow
+Snake Charm
+Speak with Animals
+Speak with Dead
+Speak with Monsters
+Speak with Plants
+Sticks to Snakes
+Stone to Flesh
+Strength
+Suggestion
+Symbol
+Telekinesis
+Teleport
+Time Stop
+Transmute Metal to Wood
+Transmute Rock to Mud
+Transport via Plants
+Wall of Fire
+Wall of Ice
+Wall of Iron
+Wall of Stone
+Warp Wood
+Water Breathing
+Weather Summoning
+Web
+Wind Walk
+Wish
+Wizard Eye
+Wizard Lock
+Word of Recall
