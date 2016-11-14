@@ -8,7 +8,7 @@ function filterByClass(text, value) {
 spellbookApp.controller('spellbookController',
    function spellbookController($scope, $http) {
       var _data;
-      var url = 'http://rawgit.com/RiotInferno/dungeonScripts/master/data/Swords%20%26%20Wizardry/Spells/spellData.json'
+      var url = 'https://rawgit.com/RiotInferno/dungeonScripts/master/data/Swords%20%26%20Wizardry/Spells/spellData.json'
       var successCallback = function(response) {
          $scope.ClassItems = ['Magic-User', 'Cleric', 'Druid'];
          _data = response.data;
