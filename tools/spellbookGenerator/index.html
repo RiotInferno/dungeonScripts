@@ -1,143 +1,145 @@
 <!DOCTYPE html>
 <html lang="en" ng-app="spellbookApp">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Angular Material style sheet -->
-    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
-    <link rel="stylesheet" href="style.css">
-  </head>
 
-  <body ng-app="BlankApp" ng-cloak>
-    <!-- Angular Material requires Angular.js Libraries -->
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
-    
-    <!-- JQuery -->
-    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-  
-    <!-- Angular Material Library -->
-    <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script>
-    <script src="script.js"></script>
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- Angular Material style sheet -->
+   <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.css">
+   <link rel="stylesheet" href="style.css">
+</head>
 
-    <div ng-controller="spellbookController" layout="column" ng-cloak>
+<body ng-app="BlankApp" ng-cloak>
+   <!-- Angular Material requires Angular.js Libraries -->
+   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-aria.min.js"></script>
+   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-messages.min.js"></script>
+
+   <!-- JQuery -->
+   <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+
+   <!-- Angular Material Library -->
+   <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js"></script>
+   <script src="script.js"></script>
+
+   <div ng-controller="spellbookController" layout="column" ng-cloak>
       <form name="spellbookForm">
-      <md-card>
-        <md-card-title>
-          <md-card-title-text>
-            <span class="md-subhead">Spellbook Generator</span>
-          </md-card-title-text>
-        </md-card-title>
-        
-        <md-card-content>
-          <md-input-container>
-              <md-checkbox ng-model="usePictures" ng-click="pictureClick()">Use Cover Pictures</md-checkbox>
-            </md-input-container>
-            <md-input-container>
-              <label>Front Cover URL</label>
-              <input type="text" name="frontCover" ng-model="frontCover" ng-disabled="!usePictures"/>
-            </md-input-container>
-            <md-input-container>
-              <label>Back Cover URL</label>
-              <input type="text" name="backCover" ng-model="backCover" ng-disabled="!usePictures"/>
-            </md-input-container>
+         <md-card>
+            <md-card-title>
+               <md-card-title-text>
+                  <span class="md-subhead">Spellbook Generator</span>
+               </md-card-title-text>
+            </md-card-title>
 
-          <div layout="row">
-            <md-input-container>
-              <label>Class</label>
-              <md-select ng-model="spellClass" ng-change="changed()">
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="class in ClassItems" ng-value="class">
-                {{class}}
-                </md-option>
-              </md-select>
-           </md-input-container>
-          </div>
-          
-          <div layout="row">
-            <md-input-container>
-              <label>Page 1</label>
-              <md-select ng-model='spellPage1'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            
-            <md-input-container>
-              <label>Page 2</label>
-              <md-select ng-model='spellPage2'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            <md-input-container>
-              <label>Page 3</label>
-              <md-select ng-model='spellPage3'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            <md-input-container>
-              <label>Page 4</label>
-              <md-select ng-model='spellPage4'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-          </div>
-          <div layout="row">
-            <md-input-container>
-              <label>Page 5</label>
-              <md-select ng-model='spellPage5'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            <md-input-container>
-              <label>Page 6</label>
-              <md-select ng-model='spellPage6'>
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            <md-input-container>
-              <label>Page 7</label>
-              <md-select ng-model='spellPage7' ng-hide="usePictures">
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-            <md-input-container>
-              <label>Page 8</label>
-              <md-select ng-model='spellPage8' ng-hide="usePictures">
-                <md-option><em>None</em></md-option>
-                <md-option ng-repeat="spell in SpellData" ng-value="spell">
-                  {{spell['Spell Name']}}
-                </md-option>
-              </md-select>
-            </md-input-container>
-          </div>
-          <div layout="row" layout-align="end" flex>
-            <md-button ng-click="save()" class="md-primary">Create</md-button>
-          </div>
-        </md-card-content>
-      </md-card>
+            <md-card-content>
+               <md-input-container>
+                  <md-checkbox ng-model="usePictures" ng-click="pictureClick()">Use Cover Pictures</md-checkbox>
+               </md-input-container>
+               <md-input-container>
+                  <label>Front Cover URL</label>
+                  <input type="text" name="frontCover" ng-model="frontCover" ng-disabled="!usePictures" />
+               </md-input-container>
+               <md-input-container>
+                  <label>Back Cover URL</label>
+                  <input type="text" name="backCover" ng-model="backCover" ng-disabled="!usePictures" />
+               </md-input-container>
+
+               <div layout="row">
+                  <md-input-container>
+                     <label>Class</label>
+                     <md-select ng-model="spellClass" ng-change="changed()">
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="class in ClassItems" ng-value="class">
+                           {{class}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+               </div>
+
+               <div layout="row">
+                  <md-input-container>
+                     <label>Page 1</label>
+                     <md-select ng-model='spellPage1'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+
+                  <md-input-container>
+                     <label>Page 2</label>
+                     <md-select ng-model='spellPage2'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+                  <md-input-container>
+                     <label>Page 3</label>
+                     <md-select ng-model='spellPage3'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+                  <md-input-container>
+                     <label>Page 4</label>
+                     <md-select ng-model='spellPage4'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+               </div>
+               <div layout="row">
+                  <md-input-container>
+                     <label>Page 5</label>
+                     <md-select ng-model='spellPage5'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+                  <md-input-container>
+                     <label>Page 6</label>
+                     <md-select ng-model='spellPage6'>
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+                  <md-input-container>
+                     <label>Page 7</label>
+                     <md-select ng-model='spellPage7' ng-hide="usePictures">
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+                  <md-input-container>
+                     <label>Page 8</label>
+                     <md-select ng-model='spellPage8' ng-hide="usePictures">
+                        <md-option><em>None</em></md-option>
+                        <md-option ng-repeat="spell in SpellData" ng-value="spell">
+                           {{spell['Spell Name']}}
+                        </md-option>
+                     </md-select>
+                  </md-input-container>
+               </div>
+               <div layout="row" layout-align="end" flex>
+                  <md-button ng-click="save()" class="md-primary">Create</md-button>
+               </div>
+            </md-card-content>
+         </md-card>
       </form>
-    </div>
-  </body>
+   </div>
+</body>
+
 </html>
