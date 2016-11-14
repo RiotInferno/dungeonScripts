@@ -1,0 +1,21 @@
+/* Styles go here */
+.spellbookApp md-input-container {
+  margin-right: 10px; }
+
+.spellView {
+  width: 3.75in;
+  height: 5in;
+  margin: .25in;
+  padding: 5px;
+  border: 1px solid gray;
+  font-size:1em;
+  /*overflow: hidden;*/
+}
+
+.coverView {
+  max-height: 5in;
+  max-width: 3.75in;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
