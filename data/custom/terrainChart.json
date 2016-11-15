@@ -1,0 +1,344 @@
+{
+  "plain": [
+    {
+      "result": "plain",
+      "weight" :  11
+    },
+    {
+      "result": "scrub",
+      "weight": 1
+    },
+    {
+      "result": "forest",
+      "weight" :  1
+    },
+    {
+      "result": "rough",
+      "weight" :  1
+    },
+    {
+      "result": "desert",
+      "weight" :  1
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  1
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "scrub": [
+    {
+      "result": "plain",
+      "weight" :  3
+    },
+    {
+      "result": "scrub",
+      "weight": 8
+    },
+    {
+      "result": "forest",
+      "weight" :  2
+    },
+    {
+      "result": "rough",
+      "weight" :  1
+    },
+    {
+      "result": "desert",
+      "weight" :  1
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  1
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "forest": [
+    {
+      "result": "plain",
+      "weight" :  1
+    },
+    {
+      "result": "scrub",
+      "weight": 3
+    },
+    {
+      "result": "forest",
+      "weight" :  10
+    },
+    {
+      "result": "rough",
+      "weight" :  1
+    },
+    {
+      "result": "desert",
+      "weight" :  0
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  1
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "rough": [
+    {
+      "result": "plain",
+      "weight" :  2
+    },
+    {
+      "result": "scrub",
+      "weight": 2
+    },
+    {
+      "result": "forest",
+      "weight" :  1
+    },
+    {
+      "result": "rough",
+      "weight" :  3
+    },
+    {
+      "result": "desert",
+      "weight" :  2
+    },
+    {
+      "result": "hills",
+      "weight" :  5
+    },
+    {
+      "result": "mountains",
+      "weight" :  2
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "desert": [
+    {
+      "result": "plain",
+      "weight" :  3
+    },
+    {
+      "result": "scrub",
+      "weight": 2
+    },
+    {
+      "result": "forest",
+      "weight" :  0
+    },
+    {
+      "result": "rough",
+      "weight" :  3
+    },
+    {
+      "result": "desert",
+      "weight" :  6
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  2
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "hills": [
+    {
+      "result": "plain",
+      "weight" :  1
+    },
+    {
+      "result": "scrub",
+      "weight": 2
+    },
+    {
+      "result": "forest",
+      "weight" :  2
+    },
+    {
+      "result": "rough",
+      "weight" :  2
+    },
+    {
+      "result": "desert",
+      "weight" :  1
+    },
+    {
+      "result": "hills",
+      "weight" :  6
+    },
+    {
+      "result": "mountains",
+      "weight" :  2
+    },
+    {
+      "result": "marsh",
+      "weight" :  1
+    },
+    {
+      "result": "water",
+      "weight" :  3
+    }
+  ],
+  "mountains": [
+    {
+      "result": "plain",
+      "weight" :  1
+    },
+    {
+      "result": "scrub",
+      "weight": 1
+    },
+    {
+      "result": "forest",
+      "weight" :  1
+    },
+    {
+      "result": "rough",
+      "weight" :  2
+    },
+    {
+      "result": "desert",
+      "weight" :  1
+    },
+    {
+      "result": "hills",
+      "weight" :  4
+    },
+    {
+      "result": "mountains",
+      "weight" :  8
+    },
+    {
+      "result": "marsh",
+      "weight" :  0
+    },
+    {
+      "result": "water",
+      "weight" :  2
+    }
+  ],
+  "marsh": [
+    {
+      "result": "plain",
+      "weight" :  2
+    },
+    {
+      "result": "scrub",
+      "weight": 2
+    },
+    {
+      "result": "forest",
+      "weight" :  2
+    },
+    {
+      "result": "rough",
+      "weight" :  1
+    },
+    {
+      "result": "desert",
+      "weight" :  0
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  0
+    },
+    {
+      "result": "marsh",
+      "weight" :  7
+    },
+    {
+      "result": "water",
+      "weight" :  5
+    }
+  ],
+  "water": [
+    {
+      "result": "plain",
+      "weight" :  2
+    },
+    {
+      "result": "scrub",
+      "weight": 2
+    },
+    {
+      "result": "forest",
+      "weight" :  2
+    },
+    {
+      "result": "rough",
+      "weight" :  1
+    },
+    {
+      "result": "desert",
+      "weight" :  0
+    },
+    {
+      "result": "hills",
+      "weight" :  1
+    },
+    {
+      "result": "mountains",
+      "weight" :  0
+    },
+    {
+      "result": "marsh",
+      "weight" :  3
+    },
+    {
+      "result": "water",
+      "weight": 9
+    }
+  ]
+}
