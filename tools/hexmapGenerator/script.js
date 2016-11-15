@@ -18,6 +18,7 @@ var hexmapApp = angular.module("hexmapApp", ['ngMaterial'])
                 ctx.restore();
             }
 
+            var _url = 'https://rawgit.com/RiotInferno/dungeonScripts/master/data/custom/terrainChart.json';
             var _radius = 20;
             var _startX = 1.5;
             var _startY = 1.5;
@@ -75,14 +76,14 @@ var hexmapApp = angular.module("hexmapApp", ['ngMaterial'])
             };
 
             var _successCallback = function (response) {
-                _terrainChart = response.data;
+                _terrainChart = response;
 
             };
 
             function _getData($http) {
                 $.ajax({
                     dataType: "json",
-                    url: 'terrainChart.json',
+                    url: _url, 
                     success: _successCallback,
                     async: false
                 });
