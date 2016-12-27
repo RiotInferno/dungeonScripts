@@ -29,7 +29,12 @@ def getData(fileName):
         return [line.rstrip('\n') for line in inputFile]
 
 def compareData():
-    print( set(getData(getCurrentFile())) - set(getData(getBackupFile())) )
+	diff = set(getData(getCurrentFile())) - set(getData(getBackupFile()))
+	if len(diff) > 0:
+		print(diff)
+		#print( set(getData(getCurrentFile())) - set(getData(getBackupFile())) )
+	else:
+		print("No new books.")
 
 def getNextPage(soup, count):
     nextPage = soup.find('a', title=' Next Page ')
