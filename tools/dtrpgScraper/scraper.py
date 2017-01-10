@@ -1,4 +1,4 @@
-import requests
+import requests, os
 from bs4 import BeautifulSoup
 from shutil import move
 
@@ -18,22 +18,23 @@ def makeSoup(url):
     return BeautifulSoup(getHtmlResponse(url), 'html.parser')
 
 def Backup():
-	move(getCurrentFile(), getBackupFile())
+	if os.path.isfile(getCurrentFile()):
+		move(getCurrentFile(), getBackupFile())
 	
 def processData(url, count):
     soup = makeSoup(url)
-    with open(getCurrentFile(), 'a') as f:
+    with open(getCurrentFile(), 'a', encoding="utf-8") as f:
         [f.write(x['title']+'\n') for x in soup.find('table', class_='productListing').find_all('a', title=True)[3:]]
     getNextPage(soup, count)
 
 def getData(fileName):
     with open( fileName, 'r' ) as inputFile:
-        return [line.rstrip('\n') for line in inputFile]
+        return [line.rstrip('\n').encode('utf-8') for line in inputFile]
 
 def compareData():
 	diff = set(getData(getCurrentFile())) - set(getData(getBackupFile()))
 	if len(diff) > 0:
-		print( set(getData(getCurrentFile())) - set(getData(getBackupFile())) )
+		print(set(getData(getCurrentFile())) - set(getData(getBackupFile())))
 	else:
 		print("No new books.")
 
