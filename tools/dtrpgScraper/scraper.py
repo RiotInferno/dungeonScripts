@@ -1,4 +1,4 @@
-import requests, os
+import requests, os, io
 from bs4 import BeautifulSoup
 from shutil import move
 
@@ -23,12 +23,13 @@ def Backup():
 	
 def processData(url, count):
     soup = makeSoup(url)
-    with open(getCurrentFile(), 'a', encoding="utf-8") as f:
+    #with open(getCurrentFile(), 'a', encoding="utf-8") as f:
+    with io.open(getCurrentFile(), "a", encoding="utf-8-sig") as f:
         [f.write(x['title']+'\n') for x in soup.find('table', class_='productListing').find_all('a', title=True)[3:]]
     getNextPage(soup, count)
 
 def getData(fileName):
-    with open( fileName, 'r' ) as inputFile:
+    with io.open( fileName, 'r' ) as inputFile:
         return [line.rstrip('\n').encode('utf-8') for line in inputFile]
 
 def compareData():
